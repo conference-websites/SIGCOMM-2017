@@ -17,7 +17,7 @@ data:
     room: Foyer
     type: break
 
-  - title: TBD
+  - title: Hands-on training using P4 development tools
     time: 10:45am - 12:30pm
     type: tutorial
 
@@ -26,7 +26,7 @@ data:
     room: Foyer
     type: break
 
-  - title: TBD
+  - title: Lab Exercises
     time: 1:30pm - 3:30pm
     type: tutorial
 
@@ -35,7 +35,7 @@ data:
     room: Foyer
     type: break
 
-  - title: TBD
+  - title: Mini Research Workshop, Conclusion
     time: 4pm - 5pm
     type: tutorial
 
