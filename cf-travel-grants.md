@@ -9,6 +9,17 @@ dates:
     - info: Award notification
       date: June 23, 2017
 
+committees:
+    - role: Travel Grant Chairs
+      people:
+      - name:        Lan Wang
+        affiliation: University of Memphis
+        homepage:    http://web0.cs.memphis.edu/~lanwang/
+
+      - name:        Hamed Haddadi
+        affiliation: Queen Mary University of London, UK
+        homepage:    http://www.eecs.qmul.ac.uk/~hamed/
+
 ---
 
 # {{ page.title }}
@@ -45,6 +56,12 @@ The following criteria will be used in the selection process:
 
 {% include dates2.html dates=page.dates %}
 
+## Committees
+
+{% include committees.html committees=page.committees %}
+
+[Contact travel grant co-chairs](mailto:hamed.haddadi@qmul.ac.uk,lanwang@memphis.edu?subject=SIGCOMM 2017 Travel Grant Reference){: data-role="button" class="button" }.
+
 ## Where and How to Apply
 
 All application materials (applicant's info, CV, and letters compiled into ONE PDF) should be submitted electronically to the following website: [https://sigcomm17travelgrants.hotcrp.com/](https://sigcomm17travelgrants.hotcrp.com/)
@@ -55,7 +72,7 @@ Use your full name and surname as the title of the submission. The applicant sho
 
 2. An application letter, and
 
-3. A letter from their supervisor (PhD adviser for students, PhD or postdoc adviser for postdocs, or supervisor for faculty/researchers). The recommendation letter can be directly uploaded by the applicant during the application process. Alternatively, the advisor can directly email the recommendation letter to [Hamed Haddadi](mailto:hamed.haddadi@qmul.ac.uk?subject=SIGCOMM 2017 Travel Grant Reference) if confidentiality is a concern.
+3. A letter from their supervisor (PhD adviser for students, PhD or postdoc adviser for postdocs, or supervisor for faculty/researchers). The recommendation letter can be directly uploaded by the applicant during the application process. Alternatively, the advisor can directly email the recommendation letter to the travel grant co-chairs if confidentiality is a concern.
 
 **The applicant's letter should be clearly divided in the following sections:**
 
