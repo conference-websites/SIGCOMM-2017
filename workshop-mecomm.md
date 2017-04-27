@@ -7,7 +7,7 @@ dates:
     - info: Submission deadline
       date: <del>March 23, 2017</del> <b>March 31, 2017</b>
     - info: Acceptance notification
-      date: April 29, 2017
+      date: <del>April 29, 2017</del> <b>May 5, 2017</b>
     - info: Camera ready deadline
       date: May 29, 2017
 
@@ -134,6 +134,11 @@ List of topics include (but not limited to):
 - Inter-service communications in mobile edge networks
 - Switching designs for the mobile network core to support new mobile edge architectures
 
+#### Sponsored By
+
+<a href="http://www.interdigital.com/" taget="_blank"><img style="max-width: 100%" src="{{ site.baseurl }}/images/workshop-mecomm-sponsor-inter-digital.png" alt="InterDigital" /></a>
+{: style="text-align: center" }
+
 #### Submission Instructions
 
 Submission implies the willingness of at least one author to attend the workshop and present the paper. Accepted papers will be included in the ACM SIGCOMM conference proceedings. Workshop organizers reserve the right to exclude a paper from distribution after the workshop if the paper is not presented at the conference.
@@ -162,3 +167,4 @@ Further information about the workshop are provided on [the workshop website](ht
 ### Committees
 
 {% include committees.html committees=page.committees %}
+
