@@ -138,6 +138,8 @@ menu:
 - name: Calls
   icon: fa-bullhorn
   submenu:
+    - name: Call for Travel Grants
+      url: /cf-travel-grants.html
     - name: <del>Call for Papers</del>
       url: /cfp.html
     - name: Submission Requirements
