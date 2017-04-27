@@ -36,7 +36,7 @@ data:
     type: break
 
   - title: Mini Research Workshop, Conclusion
-    time: 4pm - 5pm
+    time: 4pm - 5:30pm
     type: tutorial
 
 presenters:

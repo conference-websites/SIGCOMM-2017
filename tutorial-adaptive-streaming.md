@@ -5,24 +5,24 @@ group: Tutorials
 
 data:
   - type: day
-    time: TBD
+    time: Monday, August 21, 2017
     room: TBD
 
   - title: Welcome and Intro
-    time: 9:00am - 9:15am
+    time: 2:00pm - 2:15pm
     type: tutorial
 
   - title: "Part I: The HTML5 Standard and Adaptive Streaming"
-    time: 9:15am - 10:30am
+    time: 2:15pm - 3:30pm
     type: tutorial
 
   - title: Coffee Break
-    time: 10:30am - 11:00am
+    time: 3:30pm - 4:00pm
     type: break
     room: Foyer
 
   - title: "Part II: Omnidirectional (360°) Media"
-    time: 11:00am - 12:30pm
+    time: 4:00pm - 5:30pm
     type: tutorial
 
 presenters:

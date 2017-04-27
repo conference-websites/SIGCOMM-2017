@@ -5,25 +5,25 @@ group: Tutorials
 
 data:
   - type: day
-    time: TBD
+    time: August 25, 2017
     room: TBD
 
   - title: Welcome and Intro
     type: tutorial
-    time: 9:00am - 9:15am
+    time: 2:00pm - 2:15pm
 
   - title: Lecture, Part I
     type: tutorial
-    time: 9:15am - 10:30am
+    time: 2:15pm - 3:30pm
 
   - title: Coffee Break
     type: break
-    time: 10:30am - 11:00am
+    time: 3:30pm - 4:00pm
     room: Foyer
 
   - title: Lecture, Part II
     type: tutorial
-    time: 11am - 12:30am
+    time: 4:00pm - 5:30pm
 
 presenters:
 - name:        Falko Dressler

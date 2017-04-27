@@ -5,7 +5,7 @@ group: Tutorials
 
 data:
   - type: day
-    time: TBD
+    time: Friday, August 25, 2017
     room: TBD
 
   - title: Introduction

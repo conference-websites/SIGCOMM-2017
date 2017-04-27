@@ -5,7 +5,7 @@ group: Tutorials
 
 data:
   - type: day
-    time: TBD
+    time: Friday, August 25, 2017
     room: TBD
 
   - type: tutorial
@@ -40,7 +40,7 @@ data:
     title: Coffee Break
 
   - type: tutorial
-    time: 4pm - 5pm
+    time: 4pm - 5:30pm
     title: Expert panel, Conclusion
 
 presenters:
