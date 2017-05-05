@@ -83,6 +83,11 @@ The registration is through the [SIGCOMM conference registration](#TBD).
 
 {% include program-online.html type="n2women" %}
 
+#### Sponsored By
+
+<a href="https://google.com" taget="_blank"><img style="max-width: 100%" src="{{ site.baseurl }}/images/workshop-n2women-sponsor-google.png" alt="Google" /></a>
+{: style="text-align: center" }
+
 ## Mentoring Program
 
 N2Women will have a mentor/mentee program. We would like to extend mentoring throughout the week for the students who are staying for SIGCOMM. In this case, we are hoping to find mentors who can host mentees with similar research interests during the main SIGCOMM conference and workshops. If you are a SIGCOMM regular attendee and a senior researcher, please consider volunteering as a mentor. If you are interested in helping out, please email one of the mentoring session organizer.
