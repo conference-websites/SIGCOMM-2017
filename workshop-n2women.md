@@ -23,8 +23,6 @@ committees:
 
     - role: Organizing Committee
       people:
-       - name:        Mohammad Alizadeh
-         affiliation: MIT
        - name:        Theophilus Benson
          affiliation: Duke
        - name:        Monia Ghobadi
@@ -34,8 +32,8 @@ committees:
        - name:        Qianru Li
          affiliation: UCLA
        - name:        Michele Noguiera
-         affiliation: FUPR, Brazil
-       - name:        Ji Ping
+         affiliation: UFPR, Brazil
+       - name:        Ping Ji
          affiliation: CUNY
        - name:        Radhika Niranjan Mysore
          affiliation: Google
