@@ -19,7 +19,7 @@ main-submission:
 main-notification:
   track: main
   info: Notification to authors
-  date: May 5, 2017
+  date: <del>May 5, 2017</del>
   important: true
 # main-due:
 #   track: main

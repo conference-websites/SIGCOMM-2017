@@ -7,7 +7,7 @@ dates:
     - info: Submission deadline
       date: <del>March 25, 2017</del> March 31st, 2017 11:59 PDT
     - info: Acceptance notification
-      date: April 30, 2017
+      date: <del>April 30, 2017</del>
     - info: Camera ready deadline
       date: May 31, 2017
 

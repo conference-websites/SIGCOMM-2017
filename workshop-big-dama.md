@@ -9,7 +9,7 @@ dates:
     - info: Paper submission deadline
       date: <del>March 24, 2017</del> March 31, 2017
     - info: Paper acceptance notification
-      date: April 28, 2017
+      date: <del>April 28, 2017</del>
     - info: Camera ready deadline
       date: May 19, 2017
 
