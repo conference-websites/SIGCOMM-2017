@@ -83,7 +83,7 @@ The registration is through the [SIGCOMM conference registration](#TBD).
 
 #### Sponsored By
 
-<a href="https://google.com" taget="_blank"><img style="max-width: 100%" src="{{ site.baseurl }}/images/workshop-n2women-sponsor-google.png" alt="Google" /></a>
+<a href="https://google.com" taget="_blank"><img style="max-width: 50%" src="{{ site.baseurl }}/images/workshop-n2women-sponsor-google.png" alt="Google" /></a>
 {: style="text-align: center" }
 
 ## Mentoring Program
