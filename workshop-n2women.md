@@ -4,9 +4,9 @@ title: "The Sixth Networking Networking Women Workshop (N2Women'17): Personal De
 group: Workshops
 
 dates:
-    - info: Posters submission deadline
+    - info: Poster submission deadline
       date: June 2, 2017
-    - info: Acceptance notification
+    - info: Poster Acceptance notification
       date: June 16, 2017
     - info: Travel grants deadline
       date: June 9, 2017
@@ -83,7 +83,7 @@ The registration is through the [SIGCOMM conference registration](#TBD).
 
 #### Sponsored By
 
-<a href="https://google.com" taget="_blank"><img style="max-width: 50%" src="{{ site.baseurl }}/images/workshop-n2women-sponsor-google.png" alt="Google" /></a>
+<a href="https://google.com" taget="_blank"><img style="width: 50%" src="{{ site.baseurl }}/images/workshop-n2women-sponsor-google.png" alt="Google" /></a>
 {: style="text-align: center" }
 
 ## Mentoring Program
@@ -92,13 +92,15 @@ N2Women will have a mentor/mentee program. We would like to extend mentoring thr
 
 ## Call for Posters
 
-Posters are solicited for research related to any aspect of networking and communications. All researchers in the networking and communications fields are welcome to submit their work for presentation at this workshop. Each poster abstract will be reviewed by members of the TPC. Posters will not be published and hence can be under submission for other conferences or workshops.
-<!-- Two posters will be selected to receive a best poster award generously sponsored by Hewlett Packard Laboratories. -->
-Travel grants are available for selected students.
+Posters are solicited for research related to any aspect of networking and communications. All researchers in the networking and communications fields are welcome to submit their work for presentation at this workshop. Posters will not be published and can therefore be under submission to other conferences or workshops. Authors of accepted posters will be invited to present their work as part of a lightning presentations session. One poster will be selected to receive a Best Poster Award.
+
+Presenting a poster is a great opportunity, especially for students, to obtain interesting and valuable feedback on ongoing research from mentors and a knowledgeable crowd at the workshop. Participants who are submitting posters are highly encouraged to examine if they are eligible for workshop travel grants.
 
 ## Poster Submission
 
-Each submission should be formatted as an extended abstract, describing the research to be presented in the poster. The length of the extended abstract should be at most TWO pages (formatted into the US letter size of 8.5 × 11 inches with fonts no smaller than 10 point size), including all figures and references. The extended abstract must include the names, affiliations and email addresses of all authors and should be submitted as a single PDF file to: [TBD](#TBD)
+Each submission should be formatted as an extended abstract, describing the research to be presented in the poster. The length of the extended abstract should be at most TWO pages (formatted into the US letter size of 8.5 x 11 inches with fonts no smaller than 10-point size), including all figures and references. The extended abstract must include the names, affiliations and email addresses of all authors and should be submitted as a single PDF file at https://n2women17.hotcrp.com/
+
+For more information, please contact the Workshop Chairs: n2women-workshop@acm.org
 
 ## Travel Grants
 
