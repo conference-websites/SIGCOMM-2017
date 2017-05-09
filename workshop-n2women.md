@@ -98,9 +98,9 @@ Presenting a poster is a great opportunity, especially for students, to obtain i
 
 ## Poster Submission
 
-Each submission should be formatted as an extended abstract, describing the research to be presented in the poster. The length of the extended abstract should be at most TWO pages (formatted into the US letter size of 8.5 x 11 inches with fonts no smaller than 10-point size), including all figures and references. The extended abstract must include the names, affiliations and email addresses of all authors and should be submitted as a single PDF file at https://n2women17.hotcrp.com/
+Each submission should be formatted as an extended abstract, describing the research to be presented in the poster. The length of the extended abstract should be at most TWO pages (formatted into the US letter size of 8.5 x 11 inches with fonts no smaller than 10-point size), including all figures and references. The extended abstract must include the names, affiliations and email addresses of all authors and should be submitted as a single PDF file at <a href="https://n2women17.hotcrp.com/">https://n2women17.hotcrp.com/</a>.
 
-For more information, please contact the Workshop Chairs: n2women-workshop@acm.org
+For more information, please contact the Workshop Chairs: <a href="mailto:n2women-workshop@acm.org?Subject=N2Women%20Posters">n2women-workshop@acm.org</a> 
 
 ## Travel Grants
 
