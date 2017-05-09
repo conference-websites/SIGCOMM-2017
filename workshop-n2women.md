@@ -6,7 +6,7 @@ group: Workshops
 dates:
     - info: Poster submission deadline
       date: June 2, 2017
-    - info: Poster Acceptance notification
+    - info: Poster acceptance notification
       date: June 16, 2017
     - info: Travel grants deadline
       date: June 9, 2017
@@ -83,8 +83,9 @@ The registration is through the [SIGCOMM conference registration](#TBD).
 
 #### Sponsored By
 
-<a href="https://google.com" taget="_blank"><img style="width: 50%" src="{{ site.baseurl }}/images/workshop-n2women-sponsor-google.png" alt="Google" /></a>
-{: style="text-align: center" }
+<a href="https://google.com" taget="_blank"><img style="width: 20%" align="middle" src="{{ site.baseurl }}/images/workshop-n2women-sponsor-google.png" alt="Google" /></a>
+<a href="https://www.nsf.gov" taget="_blank"><img style="width: 15%" align="middle" src="{{ site.baseurl }}/images/workshop-n2women-sponsor-nsf.jpg" alt="NSF" /></a>
+{: style="text-align: center;" }
 
 ## Mentoring Program
 
