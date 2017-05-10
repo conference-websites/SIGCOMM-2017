@@ -47,6 +47,8 @@ menu:
     #   url: /awards.html
     - name: Social Events
       url: /social-events.html
+    - name: Accepted Papers
+      url: /accepted-papers.html
     - name: Program Committee
       url: /tpc.html
       # icon: fa-users
