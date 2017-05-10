@@ -5,9 +5,9 @@ group: Workshops
 
 dates:
     - info: Submission deadline
-      date: <del>March 24, 2017</del> March 31, 2017
+      date: <del>March 24, 2017</del> <del>March 31, 2017</del>
     - info: Acceptance notification
-      date: <del>April 30, 2017</del> May 3, 2017
+      date: <del>April 30, 2017</del> <del>May 3, 2017</del>
     - info: Camera ready deadline
       date: May 26, 2017
 

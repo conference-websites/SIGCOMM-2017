@@ -5,11 +5,11 @@ group: Workshops
 
 dates:
     - info: Submission deadline
-      date: March 24, 2017
+      date: <del>March 24, 2017</del>
     - info: Acceptance notification
       date: <del>April 17, 2017</del>
-<!-- - info: Camera ready deadline -->
-<!--   date: May 31, 2017 -->
+    - info: Camera ready deadline
+      date: May 31, 2017
 
 committees:
     - role: Workshop Co-Chairs

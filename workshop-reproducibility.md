@@ -7,7 +7,7 @@ dates:
     - info: Opening of the discussion forum and submission system (OPEN NOW)
       date: <del>January 25, 2017</del>
     - info: Submission deadline
-      date: <del>March 24, 2017</del> March 31st, 2017 9:00pm PST
+      date: <del>March 24, 2017</del> <del>March 31st, 2017 9:00pm PST</del>
     - info: Acceptance notification
       date: <del>April 28, 2017</del>
     - info: Camera ready deadline
