@@ -35,6 +35,9 @@ menu:
 - name: Supporters
   url: /supporters.html
   icon: fa-handshake-o
+- name: ">> Register Now <<"
+  url: /registration.html
+  highlight: menu-hl
 - name: Conference
   icon: fa-bar-chart
   submenu:

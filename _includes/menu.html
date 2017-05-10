@@ -8,7 +8,7 @@
       {% if item.submenu == nil %}
         {% if item.url == page.url %}{% assign active = 'navselected' %}
         {% else %}{% assign active = nil %}{% endif %}
-        <li class="{% if forloop.first != true and forloop.last != true %}notlast{% endif %} {{ active }}" data-icon="false">
+        <li class="{% if forloop.first != true and forloop.last != true %}notlast{% endif %} {{ active }} {% if active == nil %}{{ item.highlight }}{% endif %}" data-icon="false">
           <a href="{{ site.baseurl }}{{ item.url }}">{% if item.icon %}<i class="fa {{ item.icon }}" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;{% endif %}{{ item.name }}</a>
         </li>
       {% else %}

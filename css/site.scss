@@ -126,6 +126,11 @@ p {
     border-color: #{{ site.colors.highlight }};
 }
 
+.leftnav .ui-listview .menu-hl a {
+    color: $brand-primary !important;
+    background-color: $gray;
+}
+
 /* The main contents */
 .content-primary .sponsors {
     width: 100%;
