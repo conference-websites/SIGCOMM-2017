@@ -83,8 +83,6 @@ After the submission deadline, we will use the same tool to check the conformanc
     If you are using LaTeX, you can make use of [this template for ACM conference proceedings](https://github.com/conference-websites/acmart-sigproc-template).  Unlike the official template, it only includes example for conference proceedings.
     {: class="bs-callout bs-callout-info" }
 
-- Note that the final copy will be 14 pages using the ACM standard 10pt format. This style may result in more text than your submission so that you can adequately address reviewer and shepherd comments.
-
 - List the submission number and the number of pages in your paper in the author block, e.g., "Paper #N, 14 pages", beneath your title. Registering your title, abstract, etc., will provide a paper submission number. Per the anonymity guidelines, remember to remove any author names.
 
 - Provide an abstract of no more than 200 words.
