@@ -10,6 +10,7 @@
 
     [50, "thousand-eyes.jpg", "https://www.thousandeyes.com/", "thousandeyes", 0, 500, 354,  "silver"],
     [50, "barefoot-networks.jpg", "https://barefootnetworks.com/", "barefoot", 0, 600, 246,  "silver"],
+    [50, "verizon.png", "https://www.verizondigitalmedia.com/", "verizon", 0, 1200, 519,     "silver"],
 
     [10, "akamai.png", "https://www.akamai.com/", "akamai", 0, 195, 450,                     "bronze"],
     [10, "comcast.jpg", "https://www.comcast.com/", "comcast", 0, 263, 594,                  "bronze"],
