@@ -107,9 +107,29 @@ For more information, please contact the Workshop Chairs: <a href="mailto:n2wome
 
 ## Travel Grants
 
-N2Women is pleased to provide travel grants to broaden the participation in our workshop. This year we are running a joint application process with the main SIGCOMM Conference.
+N2Women is pleased to provide travel grants to its annual workshop, co-located with SIGCOMM’17. N2Women aims to foster connections among the under-represented women in computer networking and related research fields. The 6th N2Women Workshop also welcomes men who share the same research interests, attend the same conferences, and often face the same career hurdles and obstacles to join us!
 
-More information will be available soon. Apply at [TBD](#TBD)
+The travel grants will be given to applicants who participate in the N2women workshop. Applicants can be at any stage of their career, both in academia and industry. Priority for the travel grants will be given to applicants who are women, under-represented groups in their country of residence, and people with disabilities.
+
+**How to Apply?**
+
+N2Women runs a joint travel-grant applications process with SIGCOMM’17. Applicants for the travel award should apply using the following link: <a href="https://sigcomm17travelgrants.hotcrp.com/">https://sigcomm17travelgrants.hotcrp.com/</a>.   
+
+Applications not supported by N2Women will still be considered for a SIGCOMM travel grant. We therefore recommend applicants to comply with the SIGCOMM application requirements as well. The format requirements of SIGCOMM travel grant applications can be found at: 
+<a href="http://conferences.sigcomm.org/sigcomm/2017/cf-travel-grants.html">http://conferences.sigcomm.org/sigcomm/2017/cf-travel-grants.html</a>
+
+For those applications that do not use the SIGCOMM travel grant format, the N2women travel grant applications should include the curriculum vita of the applicants, and a short personal statement (maximum one page). The personal statement should include an overview of the research interests/accomplishments and a description of how attending the N2Women Workshop will be beneficial.  The applicant must also state if he/she has submitted a N2Women’17 workshop poster and/or has accepted SIGCOMM 2017 paper, poster, or demo. 
+
+Student applicants (i.e., Bachelors, Masters, and PhDs) should have their advisor send to [n2women17-travel-grant-committee@googlegroups.com](mailto:n2women17-travel-grant-committee@googlegroups.com) a supporting letter including the details specified: (1) Confirmation that the student is a Bachelor, a Master, or a Ph.D. candidate in good standing within his/her graduate program; (2) Ways in which attending the workshop and main conference would benefit the particular student.
+
+**Travel Support**
+
+The N2Women Travel Grants Committee will review applications, and the grants will be announced by June 23, 2017. Travel grant awards are meant to partially cover the cost of attending and participating in N2Women 2017. Note that the award recipients will need to pay for the expenses ahead of time and get reimbursed after the after the N2Women workshop and under receipts reception. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized. 
+
+**Contact**
+
+For any questions, please contact the N2Women Travel Grant Committee at [n2women17-travel-grant-committee@googlegroups.com](mailto:n2women17-travel-grant-committee@googlegroups.com)
+
 
 ## Important Dates
 
