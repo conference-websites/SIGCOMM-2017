@@ -85,6 +85,8 @@ The registration is through the [SIGCOMM conference registration](#TBD).
 
 <a href="https://google.com" taget="_blank"><img style="width: 20%" align="middle" src="{{ site.baseurl }}/images/workshop-n2women-sponsor-google.png" alt="Google" /></a>
 <a href="https://www.nsf.gov" taget="_blank"><img style="width: 15%" align="middle" src="{{ site.baseurl }}/images/workshop-n2women-sponsor-nsf.jpg" alt="NSF" /></a>
+<a href="http://www.comsoc.org/" taget="_blank"><img style="width: 15%" align="middle" src="{{ site.baseurl }}/images/workshop-n2women-sponsor-comsoc.png" alt="NSF" /></a>
+<a href="http://www.sigcomm.org/" taget="_blank"><img style="width: 15%" align="middle" src="{{ site.baseurl }}/images/workshop-n2women-sponsor-sigcomm.png" alt="NSF" /></a>
 {: style="text-align: center;" }
 
 ## Mentoring Program
