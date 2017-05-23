@@ -38,11 +38,12 @@ menu:
 - name: ">> Register Now <<"
   url: /registration.html
   highlight: menu-hl
+- name: Program
+  url: /program.html
+  icon: fa-list-ul
 - name: Conference
   icon: fa-bar-chart
   submenu:
-    # - name: Program
-    #   url: /program.html
     # - name: Awards
     #   url: /awards.html
     - name: Social Events
