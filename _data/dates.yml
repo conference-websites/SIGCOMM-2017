@@ -53,7 +53,7 @@ workshops-papers-due:
 posters-submission:
   track: posters
   info: Submissions deadline
-  date: May 17, 2017
+  date: <del>May 17, 2017</del>
   important: true
 posters-notification:
   track: posters

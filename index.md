@@ -20,11 +20,11 @@ SIGCOMM is the flagship annual conference of the ACM Special Interest Group on D
 
 {% include news.html %}
 
-{% comment %}
 ## <i class="fa fa-calendar-o"></i> Conference Schedule
 
-<a href="files/schedule-2016-08-10.pdf" rel="external"><img src="files/schedule-2016-08-10.png" alt="ACM SIGCOMM 2017 - Detailed Conference Schedule" style="width: 100%;"></a>
+<a href="images/sigcomm2017-schedule.pdf" rel="external"><img src="images/sigcomm2017-schedule.png" alt="ACM SIGCOMM 2017 - Detailed Conference Schedule" style="width: 100%;"></a>
 
+{% comment %}
 ## <i class="fa fa-calendar-o"></i> Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?title=ACM%20SIGCOMM%20Agenda&amp;showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;hl=en&amp;bgcolor=%23ffffff&amp;src=fgkdoih822v80dfk304pt56fjo%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FSao_Paulo" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
