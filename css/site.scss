@@ -397,8 +397,13 @@ p {
 
 .content-primary .program .prog-tutorial {
     padding: 0em 1.0em;
-    background-color: #59a4d9;
-    border-color: #bbbbbb;
+    background-color: #f2ffef;
+    // border-color: #bbbbbb;
+}
+
+.content-primary .program .prog-workshop {
+    padding: 0em 1.0em;
+    background-color: #eff5ff;
 }
 
 /* miscelaneous controls (hotel page, roomshare, etc.) */
@@ -409,7 +414,7 @@ p {
     font-weight: 500;
 }
 
-.content-primary table.hotel th{
+.content-primary table.hotel th {
     text-align:left;
     vertical-align:top;
     width: 25%;

@@ -1,0 +1,13 @@
+<li class="prog-workshop prog-item {{ progitemclass }}">
+  <h3>
+    {{ session.time }}
+    {% if session.link and session.link != "" %}
+      <a href="{{ session.link }}">{{ session.title }}</a>
+    {% else %}
+      {{ session.title }}
+    {% endif %}
+  </h3>
+  {% if session.room and session.room != "" %}
+    <p>Room: {{ session.room }}</p>
+  {% endif %}
+</li>

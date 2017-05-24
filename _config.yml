@@ -38,12 +38,18 @@ menu:
 - name: ">> Register Now <<"
   url: /registration.html
   highlight: menu-hl
-- name: Program
+- name: Conference Program
   url: /program.html
+  icon: fa-list-ul
+- name: Workshops and Tutorials
+  url: /program-workshops-and-tutorials.html
   icon: fa-list-ul
 - name: Conference
   icon: fa-bar-chart
   submenu:
+    - name: Program
+      url: /program.html
+      # icon: fa-list-ul
     # - name: Awards
     #   url: /awards.html
     - name: Social Events
@@ -73,6 +79,9 @@ menu:
 - name: Workshops
   icon: fa-bullhorn
   submenu:
+    - name: Program
+      url: /program-workshops-and-tutorials.html
+      icon: fa-list-ul
     - name: MECOMM
       url: /workshop-mecomm.html
     - name: MobiArch
@@ -96,6 +105,9 @@ menu:
 - name: Tutorials
   icon: fa-newspaper-o
   submenu:
+    - name: Program
+      url: /program-workshops-and-tutorials.html
+      icon: fa-list-ul
     - name: Adaptive Streaming
       url: /tutorial-adaptive-streaming.html
       icon: fa-adjust

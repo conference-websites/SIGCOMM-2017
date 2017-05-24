@@ -1,4 +1,4 @@
-<li class="ui-li ui-bar-a prog-tutorial prog-item ui-li-divider {{ progitemclass }} {% if forloop.last %}listlast{% endif %} {% if forloop.last %}listlast{% endif %}" data-role="list-divider">
+<li class="prog-tutorial prog-item {{ progitemclass }}">
   <h3>
     {{ session.time }}
     {% if session.link and session.link != "" %}
@@ -16,9 +16,3 @@
       {% endif %}
   {% endif %}
 </li>
-{% comment %}
-  // a list divider is not visible if not followed by an ordinary item,
-  // when data-filter is true. workaround: included an invisible li.
-  // here we include the session title so that it can be searchable
-{% endcomment %}
-<li class="hidden">{{ session.title }}</li>
