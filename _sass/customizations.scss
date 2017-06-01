@@ -523,8 +523,6 @@ red {
 
 /* --------------------------------Style sheet for Slides in Tourism--------------------------*/
 
-
-
 /* Slideshow container */
 .slideshow-container,{
   max-width: 500px;
@@ -627,6 +625,40 @@ red {
 	font-size: .6em;
 	margin: 0;
 	padding: 0;
+}
+
+/* --------------------------------Style sheet for Social Events--------------------------*/
+
+.content-primary .event-header {
+    font-size: 1em;
+    color: #1A601A;
+    font-weight: 500;
+}
+
+.content-primary table.event th {
+    text-align:left;
+    vertical-align:top;
+    width: 25%;
+    padding:0
+
+}
+
+.content-primary  table.event td{
+    text-align:left;
+    vertical-align:bottom;
+    padding:0
+
+}
+
+.content-primary  table.event tr{
+    line-height:1.3em
+
+}
+
+.content-primary table.event{
+    font-size:.9em;
+    padding-bottom:1em
+
 }
 
 /* Layout rules
