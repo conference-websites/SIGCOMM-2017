@@ -5,7 +5,7 @@ group: Workshops
 
 dates:
     - info: Poster submission deadline
-      date: June 2, 2017
+      date: <del>June 2, 2017</del> June 9, 2017
     - info: Poster acceptance notification
       date: June 16, 2017
     - info: Travel grants deadline
