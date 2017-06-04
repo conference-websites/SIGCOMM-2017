@@ -56,6 +56,35 @@ committees:
          affiliation: Colorado School of Mines
        - name:        Wendi Heinzelman
          affiliation: University of Rochester
+
+mentors:
+    - role: Mentors
+      people:
+       - name:        Jiasi Chen
+         affiliation: UCR
+       - name:        Te-Yuan Huang
+         affiliation: Netflix
+       - name:        James Mickens
+         affiliation: Harvard Univ.
+       - name:        Keith Winstein
+         affiliation: Stanford Univ.
+       - name:        George Porter
+         affiliation: UCSD
+       - name:        Rachit Agarwal
+         affiliation: Cornell
+       - name:        Ethan Katz-bassett
+         affiliation: USC/Columbia
+       - name:        Yashar Ganjali
+         affiliation: Toronto Univ.
+       - name:        Ying Zhang
+         affiliation: Facebook
+       - name:        Jitu Padhye
+         affiliation: MSR
+       - name:        Justine Sherry
+         affiliation: CMU
+       - name:        Phillipa gill
+         affiliation: UMASS
+
 ---
 
 ## {{ page.title }}
@@ -93,6 +122,10 @@ The registration is through the [SIGCOMM conference registration](#TBD).
 
 N2Women will have a mentor/mentee program. We would like to extend mentoring throughout the week for the students who are staying for SIGCOMM. In this case, we are hoping to find mentors who can host mentees with similar research interests during the main SIGCOMM conference and workshops. If you are a SIGCOMM regular attendee and a senior researcher, please consider volunteering as a mentor. If you are interested in helping out, please email one of the mentoring session organizer.
 
+Please, see the list of the confirmed mentors so far:
+
+{% include committees.html committees=page.mentors %}
+
 ## Call for Posters
 
 Posters are solicited for research related to any aspect of networking and communications. All researchers in the networking and communications fields are welcome to submit their work for presentation at this workshop. Posters will not be published and can therefore be under submission to other conferences or workshops. Authors of accepted posters will be invited to present their work as part of a lightning presentations session. One poster will be selected to receive a Best Poster Award.
@@ -103,7 +136,7 @@ Presenting a poster is a great opportunity, especially for students, to obtain i
 
 Each submission should be formatted as an extended abstract, describing the research to be presented in the poster. The length of the extended abstract should be at most TWO pages (formatted into the US letter size of 8.5 x 11 inches with fonts no smaller than 10-point size), including all figures and references. The extended abstract must include the names, affiliations and email addresses of all authors and should be submitted as a single PDF file at <a href="https://n2women17.hotcrp.com/">https://n2women17.hotcrp.com/</a>.
 
-For more information, please contact the Workshop Chairs: <a href="mailto:n2women-workshop@acm.org?Subject=N2Women%20Posters">n2women-workshop@acm.org</a> 
+For more information, please contact the Workshop Chairs: <a href="mailto:n2women-workshop@acm.org?Subject=N2Women%20Posters">n2women-workshop@acm.org</a>
 
 ## Travel Grants
 
@@ -113,18 +146,18 @@ The travel grants will be given to applicants who participate in the N2women wor
 
 **How to Apply?**
 
-N2Women runs a joint travel-grant applications process with SIGCOMM’17. Applicants for the travel award should apply using the following link: <a href="https://sigcomm17travelgrants.hotcrp.com/">https://sigcomm17travelgrants.hotcrp.com/</a>.   
+N2Women runs a joint travel-grant applications process with SIGCOMM’17. Applicants for the travel award should apply using the following link: <a href="https://sigcomm17travelgrants.hotcrp.com/">https://sigcomm17travelgrants.hotcrp.com/</a>.
 
-Applications not supported by N2Women will still be considered for a SIGCOMM travel grant. We therefore recommend applicants to comply with the SIGCOMM application requirements as well. The format requirements of SIGCOMM travel grant applications can be found at: 
+Applications not supported by N2Women will still be considered for a SIGCOMM travel grant. We therefore recommend applicants to comply with the SIGCOMM application requirements as well. The format requirements of SIGCOMM travel grant applications can be found at:
 <a href="http://conferences.sigcomm.org/sigcomm/2017/cf-travel-grants.html">http://conferences.sigcomm.org/sigcomm/2017/cf-travel-grants.html</a>
 
-For those applications that do not use the SIGCOMM travel grant format, the N2women travel grant applications should include the curriculum vita of the applicants, and a short personal statement (maximum one page). The personal statement should include an overview of the research interests/accomplishments and a description of how attending the N2Women Workshop will be beneficial.  The applicant must also state if he/she has submitted a N2Women’17 workshop poster and/or has accepted SIGCOMM 2017 paper, poster, or demo. 
+For those applications that do not use the SIGCOMM travel grant format, the N2women travel grant applications should include the curriculum vita of the applicants, and a short personal statement (maximum one page). The personal statement should include an overview of the research interests/accomplishments and a description of how attending the N2Women Workshop will be beneficial.  The applicant must also state if he/she has submitted a N2Women’17 workshop poster and/or has accepted SIGCOMM 2017 paper, poster, or demo.
 
 Student applicants (i.e., Bachelors, Masters, and PhDs) should have their advisor send to [n2women17-travel-grant-committee@googlegroups.com](mailto:n2women17-travel-grant-committee@googlegroups.com) a supporting letter including the details specified: (1) Confirmation that the student is a Bachelor, a Master, or a Ph.D. candidate in good standing within his/her graduate program; (2) Ways in which attending the workshop and main conference would benefit the particular student.
 
 **Travel Support**
 
-The N2Women Travel Grants Committee will review applications, and the grants will be announced by June 23, 2017. Travel grant awards are meant to partially cover the cost of attending and participating in N2Women 2017. Note that the award recipients will need to pay for the expenses ahead of time and get reimbursed after the after the N2Women workshop and under receipts reception. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized. 
+The N2Women Travel Grants Committee will review applications, and the grants will be announced by June 23, 2017. Travel grant awards are meant to partially cover the cost of attending and participating in N2Women 2017. Note that the award recipients will need to pay for the expenses ahead of time and get reimbursed after the after the N2Women workshop and under receipts reception. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.
 
 **Contact**
 
