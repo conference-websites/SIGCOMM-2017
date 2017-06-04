@@ -7,7 +7,7 @@ hotels:
 - id: luskin
   name: UCLA Meyer and Renee Luskin Conference Center
   deadline: July 20, 2017
-  rates: [$240 plus tax single, $240 plus tax double, 35$/day charge for each additional person beyond double occupancy]
+  rates: [$240 single, $240 double, 35$/day charge for each additional person beyond double occupancy]
   amenities: [Free WiFi]
   address: 425 Westwood Plaza, Los Angeles, CA 90095, USA
   url: http://luskinconferencecenter.ucla.edu/
@@ -24,7 +24,7 @@ hotels:
 - id: angeleno
   name: Hotel Angeleno
   deadline: July 31, 2017
-  rates: [$199 plus tax single, $199 plus tax double]
+  rates: ["Currently, fully booked", <del>$199 plus tax single</del>, <del>$199 plus tax double</del>]
   amenities: [Free WiFi, Free parking, Free shuttle within 3-mile radius]
   address: 170 N Church Ln, Los Angeles, CA 90049
   url: http://www.hotelangeleno.com/
