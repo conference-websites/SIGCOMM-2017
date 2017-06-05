@@ -7,7 +7,7 @@ hotels:
 - id: luskin
   name: UCLA Meyer and Renee Luskin Conference Center
   deadline: July 20, 2017
-  rates: [$240 single, $240 double, 35$/day charge for each additional person beyond double occupancy]
+  rates: ["$240 single <b>(including tax!)</b>", "$240 double <b>(including tax!)</b>", 35$/day charge for each additional person beyond double occupancy]
   amenities: [Free WiFi]
   address: 425 Westwood Plaza, Los Angeles, CA 90095, USA
   url: http://luskinconferencecenter.ucla.edu/
