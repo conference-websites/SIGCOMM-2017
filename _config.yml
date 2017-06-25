@@ -74,8 +74,8 @@ menu:
     #   url: /posters-and-demos-main-track.html
     # - name: Topic Preview
     #   url: /topic-preview.html
-    # - name: Mentoring
-    #   url: /mentoring.html
+    - name: Mentoring
+      url: /mentoring.html
 - name: Workshops
   icon: fa-bullhorn
   submenu:
