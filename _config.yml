@@ -76,8 +76,8 @@ menu:
     #   url: /topic-preview.html
     - name: Mentoring
       url: /mentoring.html
-    - name: Remote Participation
-      url: /remote.html
+    # - name: Remote Participation
+    #   url: /remote.html
 - name: Workshops
   icon: fa-bullhorn
   submenu:
@@ -191,3 +191,6 @@ colors:
 
   program:
     break-background: d1d1d1
+
+# Set to True when ready to show Live Streaming links in the program
+enable_remote: False
