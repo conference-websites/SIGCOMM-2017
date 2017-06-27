@@ -76,6 +76,8 @@ menu:
     #   url: /topic-preview.html
     - name: Mentoring
       url: /mentoring.html
+    - name: Remote Participation
+      url: /remote.html
 - name: Workshops
   icon: fa-bullhorn
   submenu:

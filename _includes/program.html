@@ -24,6 +24,8 @@
         {% include tprog-social.html %}
       {% elsif item.type == "talk"        %}
         {% assign paper = item %}{% include tprog-item.html %}
+      {% elsif item.type == "remote"        %}
+        {% assign paper = item %}{% include tprog-remote.html %}
       {% endif %}
     {% endfor %}
   </ul>

@@ -295,6 +295,32 @@ p {
     text-decoration: none;
 }
 
+.content-primary .program .button-remote {
+    padding: 4px 10px 4px 10px;
+    border-radius: 5px;
+    background-color: $brand-darker;
+    text-align: center;
+    width: auto;
+    margin: 0 0 6px 6px;
+    display: inline-block;
+}
+
+.content-primary .program .ui-li-static.ui-li-has-remote,
+.content-primary .program .ui-li-divider.ui-li-has-remote {
+	padding-right: 13.5em;
+}
+
+.content-primary .program .button-remote a {
+    color: #f9e90c;
+    font-weight: 400;
+    font-size: 0.9em;
+    text-decoration: none;
+}
+
+.content-primary .program .button-remote a:hover {
+    text-decoration: underline;
+}
+
 .content-primary .program hr.keynote-divider {
     border: 0;
     height: 0;
