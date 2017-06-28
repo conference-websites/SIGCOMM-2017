@@ -40,7 +40,7 @@ If we are oversubscribed for mentoring sessions, we'll do some mix of trying to 
 
 ### When Sessions Will Take Place
 
-Sessions will be scattered through the conference week.
+Sessions will be scattered through the conference week in the Boardroom and Prodigy Rooms of the Luskin Conference center.
 
 ### Important Dates
 
