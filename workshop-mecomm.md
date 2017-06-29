@@ -9,7 +9,7 @@ dates:
     - info: Acceptance notification
       date: <del>April 29, 2017</del> <del><b>May 5, 2017</b></del>
     - info: Camera ready deadline
-      date: May 29, 2017
+      date: <del>May 29, 2017</del>
 
 committees:
     - role: Workshop Co-Chairs
@@ -95,6 +95,10 @@ committees:
 
 
 ## {{ page.title }}
+
+### Workshop Program
+
+{% include program-online.html type="mecomm" %}
 
 ### Call For Papers
 
