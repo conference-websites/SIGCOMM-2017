@@ -158,7 +158,7 @@ Specifically, please note the following format requirements:
 
 Please submit your paper via [https://mecomm-sigcomm17.hotcrp.com/](https://mecomm-sigcomm17.hotcrp.com/)
 
-Further information about the workshop are provided on [the workshop website](http://conferences.sigcomm.org/sigcomm/2017/workshop-mecomm.html).
+<!-- Further information about the workshop are provided on [the workshop website](http://conferences.sigcomm.org/sigcomm/2017/workshop-mecomm.html). -->
 
 ### Important Dates
 
