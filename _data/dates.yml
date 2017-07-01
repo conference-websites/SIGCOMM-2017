@@ -58,7 +58,7 @@ posters-submission:
 posters-notification:
   track: posters
   info: Acceptance Notification
-  date: June 14, 2017
+  date: <del>June 14, 2017</del>
 # posters-due:
 #   track: posters
 #   info: Camera Ready Deadline

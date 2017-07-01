@@ -136,8 +136,6 @@ menu:
     - name: Understanding Latency
       url: /tutorial-latency.html
       icon: fa-adjust
-# - name: Registration
-#   url: /registration.html
 - name: Local Information
   icon: fa-map
   submenu:
@@ -160,7 +158,7 @@ menu:
 - name: Calls
   icon: fa-bullhorn
   submenu:
-    - name: Call for Travel Grants
+    - name: <del>Call for Travel Grants</del>
       url: /cf-travel-grants.html
     - name: <del>Call for Papers</del>
       url: /cfp.html
@@ -168,11 +166,11 @@ menu:
       url: /submission.html
     - name: Camera-Ready Instructions
       url: /camera-ready.html
-    - name: Call for Posters & Demos
+    - name: <del>Call for Posters & Demos</del>
       url: /cf-posters.html
     - name: Student Research Competition
       url: /src.html
-    - name: Call for Industrial Demos
+    - name: <del>Call for Industrial Demos</del>
       url: /cf-industrial-demos.html
     - name: <del>Call for Tutorials</del>
       url: /cf-tutorials.html
@@ -181,10 +179,10 @@ menu:
 - name: Policies
   icon: fa-book
   submenu:
-    - name: Author Registration Policy
-      url: /policy-author-registration.html
     - name: Anti-Harassment Policy
       url: /policy-anti-harassment.html
+    - name: Author Registration Policy
+      url: /policy-author-registration.html
 
 colors:
   highlight: 2E85C2

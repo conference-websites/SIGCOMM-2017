@@ -12,6 +12,8 @@ Harassment is unwelcome or hostile behavior, including speech that intimidates, 
 
 We recognize that there is an inherent power imbalance between senior and junior members of the community.  Senior members hold real power over junior members' career advancement. Thus, a junior member may feel pressured to accept a social invitation from a senior member, or be reluctant to speak up, when made uncomfortable. This inducement of discomfort in a junior member by a senior member may constitute harassment.
 
+If you have any questions regarding the policy, please [the conference General Chairs](mailto:generalchairs17@sigcomm.org), the current SIGCOMM Chair [S. Keshav](mailto:Keshav@uwaterloo.ca), or the current SIGCOMM Vice-Chair [Renata Teixeira](mailto:Renata.Teixeira@inria.fr).
+
 ## Reporting of Harassment
 
 If you believe you have been harassed or notice that someone else is being harassed, you are encouraged to report the incident in confidence (even if it does not clearly fit into the description of harassment in the policy) either by email or in person to one of the conference General Chairs or the current SIGCOMM Chair <a href="mailto:Keshav@uwaterloo.ca">S. Keshav</a>, or the current SIGCOMM Vice-Chair <a href="mailto:Renata.Teixeira@inria.fr">Renata Teixeira</a>. The SIG Chair/Vice Chair will be available to help even if not physically present. You can also ask any volunteer at the conference, who will all be wearing distinctive clothing, to arrange an immediate meeting with one or more of these named individuals.
