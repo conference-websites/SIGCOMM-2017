@@ -84,6 +84,10 @@ mentors:
          affiliation: CMU
        - name:        Phillipa gill
          affiliation: UMASS
+       - name:        Marco Canini
+         affiliation: Université Catholique de Louvain
+       - name:        Sami Rollins
+         affiliation: University of San Francisco
 
 ---
 
