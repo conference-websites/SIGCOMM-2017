@@ -16,6 +16,10 @@ SIGCOMM is the flagship annual conference of the ACM Special Interest Group on D
 <a href="http://www.sigcomm.org/content/special-statement-freedom-mobility" target="_blank">Special statement on freedom of mobility</a>
 </center>
 
+### [Early registration deadline: **July 14th, 11:59pm CDT**]({{ site.baseurl }}/registration.html)
+{: style="text-align: center" }
+
+
 ## <i class="fa fa-newspaper-o"></i> News
 
 {% include news.html %}
