@@ -58,6 +58,10 @@ committees:
 
 ## {{ page.title }}
 
+### Workshop Program
+
+{% include program-online.html type="reproducibility" %}
+
 ### Call For Papers
 
 Ensuring the reproducibility of results is essential in experimental sciences. Unfortunately,
