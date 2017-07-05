@@ -148,14 +148,8 @@ menu:
       url: /visa.html
     - name: Tourism
       url: /tourism.html
-    # - name: Room Share
-    #   url: /room-share.html
-    # - name: Travel Grants
-    #   url: /travel-grants.html
-    # - name: N2Women Fellowship
-    #   url: /n2women-fellowship.html
-    # - name: N2Women Travel Grant
-    #   url: /n2women-travel-grant.html
+    - name: Room Share
+      url: /room-share.html
 - name: Calls
   icon: fa-bullhorn
   submenu:
