@@ -27,8 +27,8 @@ data:
 
 presenters:
 - name:        Alexander Afanasyev
-  affiliation: University of California, Los Angeles
-  bio:         "<p>Alexander Afanasyev is an Adjunct Assistant Professor in University of California, Los Angeles.  He received his Ph.D. degree in computer science from UCLA in 2013.  His research focus is on the next-generation Internet architecture as part of the Named Data Networking (NDN) project. His research interests include a variety of topics that are vital for the success of NDN, including scalability of name-based routing, auto-configuration, distributed data synchronization, application and network security.  Dr. Afanasyev is also leading the development effort of the overall NDN codebase.</p>"
+  affiliation: Florida International University
+  bio:         "<p>Alexander Afanasyev is Assistant Professor in Florida International University, Miami.  He received his Ph.D. degree in computer science from UCLA in 2013.  His research focus is on the next-generation Internet architecture as part of the Named Data Networking (NDN) project. His research interests include a variety of topics that are vital for the success of NDN, including scalability of name-based routing, auto-configuration, distributed data synchronization, application and network security.  Dr. Afanasyev is also leading the development effort of the overall NDN codebase.</p>"
 
 - name:        Jeff Burke
   affiliation: UCLA School of Theater, Film and Television (TFT)
@@ -45,6 +45,10 @@ presenters:
 - name:        Beichuan Zhang
   affiliation: University of Arizona
   bio:         "<p>Beichuan Zhang is Associate Professor at the Department of Computer Science, the University of Arizona. His research interest is in Internet routing architectures and protocols. He has been working on Named Data Networking, green networking, and inter-domain routing. He received the Applied Networking Research Prize in 2011 by ISOC and IRTF, and best paper awards at IEEE ICDCS in 2005 and IWQoS in 2014. Dr. Zhang received Ph.D. from UCLA and B.S. from Peking University.</p>"
+
+- name:        Lixia Zhang
+  affiliation: University of California, Los Angeles
+  bio:         "<p>Lixia Zhang is Professor in the Computer Science Department of UCLA.  She received her Ph.D in computer science from MIT and was a member of the research staff at Xerox PARC before joining UCLA. She is a fellow of ACM and IEEE, the recipient of IEEE Internet Award, and the holder of UCLA Postel Chair in Computer Science.  Since 2010 she has been leading the effort on the design and development of the NDN architecture.</p>"
 
 ---
 
