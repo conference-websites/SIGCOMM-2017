@@ -60,6 +60,10 @@ committees:
 
 ## {{ page.title }}
 
+### Workshop Program
+
+{% include program-online.html type="kbnets" %}
+
 ### Call For Papers
 
 Kernel-Bypass Networks (including, but not limited to RDMA and DPDK) have recently drawn much attention from the research community and the industry. Emerging applications such as AI training, distributed storage systems, and software middle-boxes/NFV have been shown to benefit significantly from technologies that bypass the conventional OS network stack. At the same time, recent switch and NIC developments (e.g., RoCE) have paved the way to the large-scale deployment of KBNets.

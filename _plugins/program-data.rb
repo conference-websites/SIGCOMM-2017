@@ -30,38 +30,42 @@ module Jekyll
         site.data['program'] = {}
 
         for sheetKey in site.config['program']['spreadsheet']
-          Jekyll.logger.warn 'Getting data from Google Spreadsheet ', sheetKey
-          spreadsheet = session.spreadsheet_by_key(sheetKey)
+          begin
+            Jekyll.logger.warn 'Getting data from Google Spreadsheet ', sheetKey
+            spreadsheet = session.spreadsheet_by_key(sheetKey)
 
-          for ws in spreadsheet.worksheets
-            file = "#{cacheDir}/#{ws.title}.yml"
-            fileMeta = "#{file}.meta"
+            for ws in spreadsheet.worksheets
+              file = "#{cacheDir}/#{ws.title}.yml"
+              fileMeta = "#{file}.meta"
 
-            if File.exist?(file) and File.exist?(fileMeta)
-              updated = Time.parse(File.read(fileMeta))
-              if ws.updated.to_i <= updated.to_i
-                Jekyll.logger.info "Using cached version of ", file
-                site.data['program'][ws.title] = YAML.load_file(file)
-                next
-              end
-            end
-
-            Jekyll.logger.warn 'Processing ', ws.title
-            begin
-              list = []
-              ws.list.drop(1).each do |item|
-                if item['type'].empty?
-                  break
+              if File.exist?(file) and File.exist?(fileMeta)
+                updated = Time.parse(File.read(fileMeta))
+                if ws.updated.to_i <= updated.to_i
+                  Jekyll.logger.info "Using cached version of ", file
+                  site.data['program'][ws.title] = YAML.load_file(file)
+                  next
                 end
-                list << item.to_hash
               end
 
-              site.data['program'][ws.title] = list
-              File.write file, list.to_yaml
-              File.write fileMeta, ws.updated
-            rescue
-              Jekyll.logger.warn "Error processing worksheet: ", $!
+              Jekyll.logger.warn 'Processing ', ws.title
+              begin
+                list = []
+                ws.list.drop(1).each do |item|
+                  if item['type'].empty?
+                    break
+                  end
+                  list << item.to_hash
+                end
+
+                site.data['program'][ws.title] = list
+                File.write file, list.to_yaml
+                File.write fileMeta, ws.updated
+              rescue
+                Jekyll.logger.warn "Error processing worksheet: ", $!
+              end
             end
+          rescue
+            Jekyll.logger.warn "Error processing spreadsheet: ", $!
           end
         end
       rescue

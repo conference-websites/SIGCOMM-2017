@@ -117,6 +117,10 @@ committees:
 
 ## {{ page.title }}
 
+### Workshop Program
+
+{% include program-online.html type="internet-qoe" %}
+
 ### Call For Papers
 
 Measuring and analyzing complex networks such as the Internet has been the focus of many research efforts for over two decades now. While this approach has lead to an improved understanding of the Internet and an enhancement of the management and operation of large-scale complex networks, little has been done to understand and manage the traffic and the network from a user-centric perspective. QoE remains a poorly understood domain, currently restricted to small scale lab studies and very far from the analysis of real large scale traffic measurements and networks. Especially in the industry, QoE has become a buzz word, far from its reality within the research community, and partly due to the complexity involved in deploying QoE-based network analysis and management solutions.

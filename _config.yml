@@ -26,9 +26,16 @@ program:
   google_client_id: .travis.d/google_client_id.json
   # Google spreadsheet with the conference data
   spreadsheet:
-    - 1J-lppI-_qcclJbmP3DN_xhgKnJnL6S344BUQQ9JbvIE
-    - 1XOHAs0JEPbhc41ibeaVmjHaPMhQ2uxYAEJhoIN7nrsU
-    - 1ta6334jIw2pDkVbdG5lCyw08PsRfpROlB8E8xQt2T6g
+    - "1J-lppI-_qcclJbmP3DN_xhgKnJnL6S344BUQQ9JbvIE" # main
+    - "1XOHAs0JEPbhc41ibeaVmjHaPMhQ2uxYAEJhoIN7nrsU" # mecomm
+    - "1ta6334jIw2pDkVbdG5lCyw08PsRfpROlB8E8xQt2T6g" # reproducibility
+    - "1cAFdSKmJ1CDnFjIdl_YHoh7Sgw2hIR8H2D0VrfqcrvU" # mobiarch
+    - "1cHt23vRK5tkDpR7rHQPd9BN_vifj39YbGpWLitgZObo" # kbnets
+    - "16FQmmoXBXy_3GkerpAuFOY03VXhTdG_U-eXiBdJhBpM" # hotconnets
+    - "1vzsVcUrH9kq0l0HioOLeKejJhI74y7Wv7uhpVyyfIe8" # bigdama
+    - "1CR3uERciFO0nK9WZommQx-ROHgbEfrc7_Hxh4dgJM0U" # internet-qoe
+    - "1bQDVWh2ci7fpQg_VeQGFu8yiP-XQYDIYOFm9g8b4Ns4" # vr-ar
+    - "1U9kFMDsSA8kdfkJT8_Pdedbnsyzegu15QZFx2HE1Fwc" # netpl
 
 # Configuration for navbar.html
 menu:

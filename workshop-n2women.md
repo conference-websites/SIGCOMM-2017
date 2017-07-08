@@ -108,7 +108,7 @@ The N2Women workshop has three main goals:
 Registration to the workshop is FREE.
 The registration is through the [SIGCOMM conference registration](#TBD).
 
-## Tentative Program
+## Workshop Program
 
 <!-- https://docs.google.com/spreadsheets/d/1J-lppI-_qcclJbmP3DN_xhgKnJnL6S344BUQQ9JbvIE/edit#gid=406283272 -->
 

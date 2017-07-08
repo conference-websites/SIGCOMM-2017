@@ -79,6 +79,10 @@ committees:
 
 ## {{ page.title }}
 
+### Workshop Program
+
+{% include program-online.html type="mobiarch" %}
+
 ### Call For Papers
 
 We are living with exponential increase of mobile data traffic today due to the unprecedented growth of portable devices, Machine-to-Machine (M2M) communications, and user-generated content sharing; together with the growth of computing power of mobile devices, it is widely recognized that we are experiencing the transformation of the network infrastructure from a hardware-dominated landscape to an increasingly virtualized, software-defined, and cloud-based system. As these trends continue, a reexamination is urgently required for the architecture of the mobile-centric Internet. Particularly, there is a need to deal with new opportunities and challenges as a result of the support of massive amount of shared content and processing functionality, the availability of software defined architectures and of possibly dynamic/mobile virtualized network functions, the computational/storage support from both the cloud and edge/fog computing, and the emerging spectrum access techniques.

@@ -24,6 +24,10 @@ committees:
 
 ## {{ page.title }}
 
+### Workshop Program
+
+{% include program-online.html type="netpl" %}
+
 ### Call For Papers
 
 <img style="width: 50%; float: right; margin: 10px;" src="{{ site.baseurl }}/images/workshop-NetPL2017-logo.png" alt="NetPL 2017" align="middle">

@@ -70,6 +70,10 @@ committees:
 
 ## {{ page.title }}
 
+### Workshop Program
+
+{% include program-online.html type="vr-ar" %}
+
 ### Call For Papers
 
 Virtual Reality (VR) and Augmented Reality (AR) are expected to be the next generation Killer-Apps in the future Internet. This workshop will bring together researchers and developers working on VR/AR and networking to share their experience, exchange views, and explore future research directions. Contemporary video applications increasingly require more pixels, higher frame rate, shorter delay, and lower packet loss rate. Immersive VR/AR videos are the representative applications. VR/AR is projected to form a $162 billion market by 2020. However, many technical bottlenecks and challenges need to be overcome to facilitate the wide adoption of VR/AR. In particular, high-throughput and low-latency data transmission, realtime video generation and adaption call for significant engineering innovations, which can only happen through interdisciplinary research. The Workshop will bring together experts from different fields, including video coding, communication, networking, and system to exchange ideas on novel network architecture and protocol designs to support VR/AR, as well as novel video coding and transmission designs to deliver immersive VR/AR experience in future networks.

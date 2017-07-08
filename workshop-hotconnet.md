@@ -66,6 +66,10 @@ committees:
 
 ## {{ page.title }}
 
+### Workshop Program
+
+{% include program-online.html type="hotconnet" %}
+
 ### Call For Papers
 
 Containerization technology is being adopted quickly by the software industry because it offers fast deployment, good portability, and high resource efficiency to run large-scale and distributed systems. For example, many large Internet companies, e.g. Google, Yelp and AirBnB, etc., have intensively used containers to speed up the development of their applications and platform. The ecosystem of containerization is also rapidly growing. For instance, operating system providers like Microsoft and RedHat have released features to support Docker/container in Windows and Linux respectively; cloud providers like AWS, Azure and OpenStack all release their own services and solutions for containerized applications; there are about 400,000 public container images on Docker Hub with roughly 4~5 thousand new ones per week, and the number of pulls from Docker Hub reached 1 billion from Aug to Oct, 2016.
