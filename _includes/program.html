@@ -23,7 +23,7 @@
       {% elsif item.type == "social"      %}
         {% include tprog-social.html %}
       {% elsif item.type == "talk"        %}
-        {% assign paper = item %}{% include tprog-item.html %}
+        {% assign keynote = item %}{% include tprog-talk.html %}
       {% elsif item.type == "remote"        %}
         {% assign paper = item %}{% include tprog-remote.html %}
       {% endif %}

@@ -4,6 +4,7 @@
   {% include tprog-item.html %}
 {% else %}
   {% if keynote.bio    and keynote.bio    != "" %}{% assign has_bio    = true %}{% else %}{% assign has_bio   = nil %}{% endif %}
+  {% if keynote.abstract and keynote.abstract != "" %}{% assign has_abstract = true %}{% else %}{% assign has_abstract = nil %}{% endif %}
   {% if keynote.link   and keynote.link   != "" %}{% assign has_link   = true %}{% else %}{% assign has_link   = nil %}{% endif %}
   {% if keynote.slides and keynote.slides != "" %}{% assign has_slides = true %}{% else %}{% assign has_slides = nil %}{% endif %}
   {% if paper.video    and paper.video  != "" %}{% assign has_video  = true %}{% else %}{% assign has_video  = nil %}{% endif %}
