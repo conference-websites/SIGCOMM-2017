@@ -24,12 +24,6 @@ committees:
 
 ## {{ page.title }}
 
-### Workshop Program
-
-{% include program-online.html type="netpl" %}
-
-### Call For Papers
-
 <img style="width: 50%; float: right; margin: 10px;" src="{{ site.baseurl }}/images/workshop-NetPL2017-logo.png" alt="NetPL 2017" align="middle">
 
 The NetPL workshop provides a forum to bring together researchers and practitioners from the fields of programming languages, formal methods, and networking.
@@ -37,6 +31,10 @@ The NetPL workshop provides a forum to bring together researchers and practition
 Recent technological trends, such as Software-Defined Networking, Network Functions Virtualization and reconfigurable networking hardware, have created an opportunity for researchers in these traditionally separate communities to collaborate, applying their diverse perspectives towards the development of novel networking applications. It is important to clarify that the scope of this workshop goes strictly beyond SDN. We aim to enable language specialists to better understand opportunities in networking, and networking specialists to better understand opportunities enabled by specially-designed languages.
 
 This is the third NetPL workshop, after [last year's workshop](http://conferences.sigcomm.org/sigcomm/2016/netpl.php) at SIGCOMM and the [first edition](http://2015.ecoop.org/track/netpl-2015-workshop) at ECOOP. Talks in the previous editions of the workshop are on [YouTube](https://www.youtube.com/channel/UCqU8E2n4MHthZUVb1xK2nRQ).
+
+### Workshop Program
+
+{% include program-online.html type="netpl" %}
 
 #### Invited Speakers
 
