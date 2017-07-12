@@ -22,6 +22,11 @@ ARGV.each do |file|
       lastAuthors = []
       lastAffiliation = nil
 
+      if paper['authors'].nil? then
+        print "+++++++++ #{paper['pid']} cannot be processed\n"
+        next
+      end
+
       paper['authors'].each do |author|
         if lastAffiliation != author['affiliation'] then
           if lastAuthors.length > 0 then
