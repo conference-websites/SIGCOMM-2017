@@ -34,7 +34,7 @@ hotels:
   rating: 3.5
   reservation-info: "<b>Group code: \"SIGCOMM Conference 2017\"</b>"
   reservation-link: http://tinyurl.com/SIGCOMM2017Conference
-  map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.821030037545!2d-118.4662930833109!3d34.074101821638116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bcc0b6c77eb7%3A0xfa7b1be3d9922e2e!2sHotel+Angeleno!5e0!3m2!1sen!2sus!4v1474581392575
+  map: "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6609.858487974233!2d-118.46133160174892!3d34.07132802202193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x80c2bcc0b6c77eb7%3A0xfa7b1be3d9922e2e!2sHotel+Angeleno%2C+170+N+Church+Ln%2C+Los+Angeles%2C+CA+90049!3m2!1d34.073893!2d-118.46823499999999!4m5!1s0x80c2bc88a7fe279b%3A0x1b84a71ecd8dc065!2sLuskin+Conference+Center+Hotel%2C+Westwood+Plaza%2C+Los+Angeles%2C+CA!3m2!1d34.0692557!2d-118.44569829999999!5e0!3m2!1sen!2sus!4v1499873286504"
   note: "<p>All reservations must be guaranteed by a valid credit card at the time of reservation.</p>
 <p>Cancellation 24 hours prior to arrival.</p>
 <p>Guests can book online or call the Reservations Line at (866) 264-3536 to book their reservations, please make sure to reference the “SIGCOMM Conference 2017” room block in order to receive the special discounted rate.</p>
