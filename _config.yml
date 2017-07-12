@@ -178,13 +178,14 @@ menu:
       url: /cf-tutorials.html
     - name: <del>Call for Workshops</del>
       url: /cf-workshops.html
-- name: Policies
-  icon: fa-book
-  submenu:
-    - name: Anti-Harassment Policy
-      url: /policy-anti-harassment.html
     - name: Author Registration Policy
       url: /policy-author-registration.html
+# - name: Policies
+#   icon: fa-book
+#   submenu:
+- name: Anti-Harassment Policy
+  url: /policy-anti-harassment.html
+  icon: fa-book
 
 colors:
   highlight: 2E85C2
