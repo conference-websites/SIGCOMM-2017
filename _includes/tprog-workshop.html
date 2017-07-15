@@ -10,7 +10,7 @@
   {% if session.room and session.room != "" %}
     <p>Room: {{ session.room }}</p>
   {% endif %}
-  {% if session.remote and session.remote != "" %}
+  {% if site.enable_remote and session.remote and session.remote != "" %}
     <div class="ui-li-aside-item">
       {% if session.remote-qa and session.remote-qa != "" %}
         <div class="button-remote">
