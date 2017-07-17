@@ -29,7 +29,7 @@ committees:
        - name:        Anja Feldmann
          affiliation: Technische Universität Berlin
        - name:        Bob Lantz
-         affiliation: Stanford University
+         affiliation: Open Networking Laboratory
        - name:        Gwendal Simon
          affiliation: Telecom Bretagne
        - name:        Hamed Haddadi
