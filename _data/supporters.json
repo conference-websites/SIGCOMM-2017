@@ -4,6 +4,7 @@
     [300, "cisco.png",    "https://www.cisco.com/", "cisco", 0, 200, 379,                    "platinum"],
     [300, "facebook.png", "https://research.fb.com/", "facebook", 0, 713, 2026,              "platinum"],
     [300, "ericsson.png", "https://www.ericsson.com/", "ericsson", 0, 116, 104,              "platinum"],
+    [300, "nsf.jpg", "https://www.nsf.gov/", "nsf", 0, 298, 295,                             "platinum"],
 
     [100, "huawei.png", "https://www.huawei.com/", "huawei", 0, 406, 406,                    "gold"],
     [100, "alibaba.jpg", "https://www.alibaba.com/", "alibaba", 0, 600, 178,                 "gold"],
@@ -24,7 +25,6 @@
 ],
 [
     "uncommitted": {
-        [300, "nsf.jpg", "https://www.nsf.gov/", "nsf", 0, 298, 295,                         "uncommitted"],
         [10,  "BBN",     "http://www.raytheon.com/ourcompany/bbn/", "bbn", 0, 0, 0,          "bronze"],
     }
 ]
