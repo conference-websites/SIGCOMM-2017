@@ -62,6 +62,10 @@ menu:
       # icon: fa-list-ul
     # - name: Awards
     #   url: /awards.html
+    - name: Posters
+      url: /program-posters.html
+    - name: Demos
+      url: /program-demos.html
     - name: Social Events
       url: /social-events.html
     - name: Accepted Papers
@@ -72,10 +76,6 @@ menu:
     - name: Organizing Committee
       url: /org-committee.html
       # icon: fa-users
-    # - name: Posters
-    #   url: /posters.html
-    # - name: Demos
-    #   url: /demos.html
     # - name: ACM SRC
     #   url: /acm-src.html
     # - name: Industrial Demos
