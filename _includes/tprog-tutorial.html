@@ -9,7 +9,7 @@
   </h3>
   {% if include.is_break != true %}
     {% if session.authors and session.authors != "" %}
-      <p>Presenter: {{ session.authors | replace_regex: '\(([^\)]*)\)', '<em>(\1)</em>'}}</p>
+      <p>Presenter(s): {{ session.authors | replace_regex: '\(([^\)]*)\)', '<em>(\1)</em>'}}</p>
     {% endif %}
     {% if session.room and session.room != "" %}
       <p>Room: {{ session.room }}</p>
