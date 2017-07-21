@@ -9,6 +9,7 @@
     [100, "huawei.png", "https://www.huawei.com/", "huawei", 0, 406, 406,                    "gold"],
     [100, "alibaba.jpg", "https://www.alibaba.com/", "alibaba", 0, 600, 178,                 "gold"],
     [100, "google.png", "https://google.com/", "google", 0, 416, 140,                        "gold"],
+    [100, "intel.png", "https://intel.com/", "intel", 0, 600, 396,                           "gold"],
 
     [50, "thousand-eyes.jpg", "https://www.thousandeyes.com/", "thousandeyes", 0, 500, 354,  "silver"],
     [50, "barefoot-networks.jpg", "https://barefootnetworks.com/", "barefoot", 0, 600, 246,  "silver"],
