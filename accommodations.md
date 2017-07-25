@@ -24,7 +24,7 @@ hotels:
 - id: angeleno
   name: Hotel Angeleno
   deadline: July 31, 2017
-  rates: ["Currently, fully booked", <del>$199 plus tax single</del>, <del>$199 plus tax double</del>]
+  rates: ["Currently, fully booked", $199 plus tax single, $199 plus tax double]
   amenities: [Free WiFi, Free parking, Free shuttle within 3-mile radius]
   address: 170 N Church Ln, Los Angeles, CA 90049
   url: http://www.hotelangeleno.com/
@@ -47,10 +47,12 @@ hotels:
 The main conference venue is [UCLA Meyer and Renee Luskin Conference Center](http://luskinconferencecenter.ucla.edu/).
 However, there are many other options for accommodation, including the Hotel Angeleno and AirBnB, available within walking distance, via hotel shuttle, or using public transportation.
 
+<h2><b>Several rooms in Hotel Angeleno are still available. The conference cut off date is July 13, 2017!</b></h2>
+
 Below is a list of conference hotels:
 
 {% for hotel in page.hotels %}
-{% include hotel.html expanded=forloop.first %}
+{% include hotel.html expanded=forloop.last %}
 {% endfor %}
 
 Note that the conference will provide breakfast and lunch.
