@@ -51,9 +51,23 @@ ARGV.each do |file|
       # print english_join(authors)
       # print "\n"
 
-      output << ['paper', '', '', paper['title'], english_join(authors),
-                 "#{paper['abstract']}" == '' ? '' : PandocRuby.convert(paper['abstract'], :from => :latex, :to => :html)
-                ]
+      begin
+        if paper['abstract'].length > 0
+          abstract = PandocRuby.convert(paper['abstract'], :from => :latex, :to => :html)
+        end
+
+        if abstract.length < 0.98 * paper['abstract'].length then
+          print " >>> SWITCH TO PLAINTEXT ABSTRACT\n"
+          abstract = PandocRuby.convert(paper['abstract'], :from => :markdown, :to => :html)
+        end
+      rescue
+        print " >>> LaTeX error, switch to plaintext abstract\n"
+        abstract = PandocRuby.convert(paper['abstract'], :from => :markdown, :to => :html)
+      end
+
+      output << ['paper',
+                 '', '', paper['title'], english_join(authors),
+                 "#{abstract}"]
     end
   end
 end
