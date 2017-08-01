@@ -15,7 +15,8 @@
      if has_link and has_slides and has_video %}{% assign item_style = 'style="width: 70%"' %}{% endif %}
 
   <li data-icon="false" class="prog-item {{ progitemclass }} prog-keynote">
-    
+
+    {% if keynote.title and keynote.title != "" %}
     <h2 {{ item_style }}>
       Keynote: 
       {% if has_link %}
@@ -24,6 +25,7 @@
         {{ keynote.title }}
       {% endif %}
     </h2>
+    {% endif %}
     
     <div class="ui-li-aside">
       {% if has_link %}
@@ -47,7 +49,9 @@
       {{ keynote.authors | replace_regex: '\(([^\)]*)\)', '<em>(\1)</em>'}}
     </p>
     {% if has_abstract or has_bio %}
-      <hr class="keynote-divider" />
+      {% if keynote.title and keynote.title != "" %}
+        <hr class="keynote-divider" />
+      {% endif %}
       {% if has_abstract %}
         <p>
           <b>Abstract: </b>{{ keynote.abstract }}
