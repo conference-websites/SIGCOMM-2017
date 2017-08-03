@@ -6,7 +6,7 @@ group: Tutorials
 data:
   - type: day
     time: Monday, August 21, 2017
-    room: TBD
+    room: "Faraday Room (Engineering IV)"
 
   - title: Welcome and Intro
     time: 2:00pm - 2:15pm

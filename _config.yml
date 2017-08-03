@@ -94,24 +94,24 @@ menu:
     - name: Program
       url: /program-workshops-and-tutorials.html
       icon: fa-list-ul
-    - name: MECOMM
+    - name: "WS1: MECOMM"
       url: /workshop-mecomm.html
-    - name: MobiArch
-      url: /workshop-mobiarch.html
-    - name: KBNets
+    - name: "WS2: KBNets"
       url: /workshop-kbnets.html
-    - name: Big-DAMA
+    - name: "WS3: Big-DAMA"
       url: /workshop-big-dama.html
-    - name: Internet QoE
+    - name: "WS4: Internet QoE"
       url: /workshop-internet-qoe.html
-    - name: HotConNet
-      url: /workshop-hotconnet.html
-    - name: Reproducibility
-      url: /workshop-reproducibility.html
-    - name: VR/AR Network
-      url: /workshop-vrar-network.html
-    - name: NetPL
+    - name: "WS5: NetPL"
       url: /workshop-netpl.html
+    - name: "WS6: HotConNet"
+      url: /workshop-hotconnet.html
+    - name: "WS7: MobiArch"
+      url: /workshop-mobiarch.html
+    - name: "WS8: VR/AR Network"
+      url: /workshop-vrar-network.html
+    - name: "WS9: Reproducibility"
+      url: /workshop-reproducibility.html
     - name: N2Women
       url: /workshop-n2women.html
 - name: Tutorials
@@ -120,29 +120,29 @@ menu:
     - name: Program
       url: /program-workshops-and-tutorials.html
       icon: fa-list-ul
-    - name: Adaptive Streaming
-      url: /tutorial-adaptive-streaming.html
-      icon: fa-adjust
-    - name: C2C
-      url: /tutorial-c2c.html
-      icon: fa-adjust
-    - name: mmWave
+    - name: "T1: mmWave"
       url: /tutorial-mmWave.html
       icon: fa-adjust
-    - name: NDN
+    - name: "T2: NDN"
       url: /tutorial-ndn.html
       icon: fa-adjust
-    - name: Netmap for NFV
-      url: /tutorial-netmap-nfv.html
-      icon: fa-circle
-    - name: P4
-      url: /tutorial-p4.html
-      icon: fa-circle
-    - name: P4→NetFPGA
+    - name: "T3: Adaptive Streaming"
+      url: /tutorial-adaptive-streaming.html
+      icon: fa-adjust
+    - name: "T4: P4→NetFPGA"
       url: /tutorial-P4-NetFPGA.html
       icon: fa-circle
-    - name: Understanding Latency
+    - name: "T5: P4"
+      url: /tutorial-p4.html
+      icon: fa-circle
+    - name: "T6: Understanding Latency"
       url: /tutorial-latency.html
+      icon: fa-adjust
+    - name: "T7: Netmap for NFV"
+      url: /tutorial-netmap-nfv.html
+      icon: fa-circle
+    - name: "T8: C2C"
+      url: /tutorial-c2c.html
       icon: fa-adjust
 - name: Local Information
   icon: fa-map

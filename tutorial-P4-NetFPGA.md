@@ -6,11 +6,12 @@ group: Tutorials
 data:
   - type: day
     time: Friday, August 25, 2017
-    room: TBD
+    room: "Faraday Room (Engineering IV)"
 
   - type: tutorial
     time: 9am - 10:30am
     title: Introduction to P4 and P4 Language Walkthrough, Joint Session with P4 Tutorial
+    room: "Shannon Room (Engineering IV)"
 
   - type: break
     time: 10:30am - 10:45am

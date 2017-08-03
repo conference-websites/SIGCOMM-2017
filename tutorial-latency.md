@@ -6,7 +6,7 @@ group: Tutorials
 data:
   - type: day
     time: Friday, August 25, 2017
-    room: TBD
+    room: "Tesla Room (Engineering IV)"
 
   - title: Introduction
     time: 9:00am - 9:15am

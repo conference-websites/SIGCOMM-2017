@@ -6,7 +6,7 @@ group: Tutorials
 data:
   - type: day
     time: Friday, August 25, 2017
-    room: TBD
+    room: "BH4760 (Boelter Hall)"
 
   - type: tutorial
     time: 9:00am - 9:15am

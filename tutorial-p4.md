@@ -5,8 +5,8 @@ group: Tutorials
 
 data:
   - type: day
-    time: TBD
-    room: TBD
+    time: Friday, August 25, 2017
+    room: "Shannon Room (Engineering IV)"
 
   - title: Introduction to P4 and P4 Language Walkthrough, Joint Session with P4→NetFPGA Tutorial
     time: 9am - 10:30am

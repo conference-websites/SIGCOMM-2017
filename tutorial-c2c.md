@@ -5,8 +5,8 @@ group: Tutorials
 
 data:
   - type: day
-    time: August 25, 2017
-    room: TBD
+    time: Friday, August 25, 2017
+    room: "Tesla Room (Engineering IV)"
 
   - title: Welcome and Intro
     type: tutorial
