@@ -88,7 +88,10 @@ mentors:
          affiliation: Université Catholique de Louvain
        - name:        Sami Rollins
          affiliation: University of San Francisco
-
+       - name:        Karen Sollins
+         affiliation: MIT
+       - name:        Samantha Lo
+         affiliation: Google
 ---
 
 ## {{ page.title }}
