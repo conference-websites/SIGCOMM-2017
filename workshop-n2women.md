@@ -117,6 +117,10 @@ The registration is through the [SIGCOMM conference registration](#TBD).
 
 {% include program-online.html type="n2women" %}
 
+## Directions
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1017.2377983215065!2d-118.44502349932687!3d34.06911252279041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x80c2bc88a7fe279b%3A0x1b84a71ecd8dc065!2sLuskin+Conference+Center+Hotel%2C+Westwood+Plaza%2C+Los+Angeles%2C+CA!3m2!1d34.0692557!2d-118.44569829999999!4m5!1s0x80c2bc8632b4bcf3%3A0x8087319fe00f1e04!2sBoelter+Hall%2C+Portola+Plaza%2C+Los+Angeles%2C+CA!3m2!1d34.069172699999996!2d-118.4431053!5e0!3m2!1sen!2sus!4v1501948979184" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 #### Sponsored By
 
 <a href="https://google.com" taget="_blank"><img style="width: 20%" align="middle" src="{{ site.baseurl }}/images/workshop-n2women-sponsor-google.png" alt="Google" /></a>
