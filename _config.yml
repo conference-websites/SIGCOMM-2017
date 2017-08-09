@@ -60,12 +60,12 @@ menu:
     - name: Program
       url: /program.html
       # icon: fa-list-ul
-    # - name: Awards
-    #   url: /awards.html
     - name: Posters
       url: /program-posters.html
     - name: Demos
       url: /program-demos.html
+    - name: Awards
+      url: /awards.html
     - name: Social Events
       url: /social-events.html
     - name: Accepted Papers

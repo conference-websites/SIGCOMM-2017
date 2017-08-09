@@ -1,0 +1,22 @@
+{% for award in include.awards %}
+  <ul class="program" data-role="listview" data-inset="true" data-theme="d" data-content-theme="a" class="tbl">
+    <li data-role="list-divider">{{ award.type }}</li>
+    {% for person in award.people %}
+      <li data-icon="false">
+        {% if person.homepage %}<a href="{{ person.homepage }}" target="_blank" rel="external">{% endif %}
+          <div class="ui-grid-a">
+            <div class="ui-block-a"><p><b>{{ person.name }}</b></p></div>
+            <div class="ui-block-b"><p>{{ person.affiliation }}</p></div>
+            <br/>
+            <hr class="keynote-divider" />
+            <p>{{ person.info }}</p>
+          </div>
+          {% if person.homepage %}</a>{% endif %}
+      </li>  
+    {% endfor %}
+    {% for paper in award.papers %}
+      {% include tprog-paper.html %}
+    {% endfor %}
+  </ul>
+{% endfor %}
+
