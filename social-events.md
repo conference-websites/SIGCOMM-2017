@@ -7,22 +7,22 @@ events:
 - id: welcome
   name: Welcome Reception
   date: Monday, August 21
-  time: 7:00pm - 10pm
-  address: Centennial Hall, Luskin Center
+  time: 7:00pm - 9pm
+  address: Centennial Terrace, Luskin Center
   image: images/hotels/ucla-luskin-conference.jpg
 
 - id: n2women-dinner
   name: N2Women Dinner
   date: Monday, August 21
   time: 8:30pm - 10:30pm
-  address: Legacy Room, Luskin Center
+  address: Centennial Hall (Salon C/Salon D), Luskin Center
   image: images/hotels/ucla-luskin-conference.jpg
-  note: N2Women dinner will be held on Monday, the night before the conference, in The Legacy Room in Luskin Center, located on the second floor, south side of the building. N2Women Dinner aims to foster the minority community within SIGCOMM, and make it easier for the under-represented attendees to fully participate in the conference. Attendees will have the opportunity to meet multiple senior members of the community from universities, research labs and industry. The dinner is open to everyone who identifies with any minority, not just women. Please RSVP on the registration site if you plan to attend.
+  note: N2Women dinner will be held on Monday, the night before the conference, in Centennial Hall (Salon C/Salon D) in Luskin Center. N2Women Dinner aims to foster the minority community within SIGCOMM, and make it easier for the under-represented attendees to fully participate in the conference. Attendees will have the opportunity to meet multiple senior members of the community from universities, research labs and industry. The dinner is open to everyone who identifies with any minority, not just women. Please RSVP on the registration site if you plan to attend.
 
 - id: conference-banquet
   name: Conference Banquet
   date: Tuesday, August 22
-  time: 7:30pm - 11:30pm
+  time: 7:00pm - 10:00pm
   address: Dickson Plaza North, UCLA Campus
   <!-- image: images/map_UCLA/banquet.jpg -->
   <!-- image_url: images/map_UCLA/banquet.jpg -->
@@ -31,7 +31,7 @@ events:
 - id: student-dinner
   name: Student Dinner
   date: Wednesday, August 23
-  time: 7:30pm - 10:00pm
+  time: 6:30pm - 9:00pm
   address: Sunset Recreation Center, UCLA Campus
   <!-- image: images/map_UCLA/student_dinner.jpg -->
   <!-- image_url: images/map_UCLA/student_dinner.jpg -->
