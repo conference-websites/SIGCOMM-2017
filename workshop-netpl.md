@@ -40,13 +40,13 @@ This is the third NetPL workshop, after [last year's workshop](http://conference
 
 The program will include invited talks from experts in the field, with an emphasis on encouraging engaging technical discussions amongst the participants.
 
-Our preliminary program includes several illustrious speakers:
+Our program includes several illustrious speakers:
 
-- Gordon Brebner, XILINX
 - Nick McKeown, Stanford University
 - Jennifer Rexford, Princeton University
 - Mooly Sagiv, Tel Aviv University
 - Boon Thau Loo, University of Pennsylvania
+- Wenxuan Zhou, Veriflow / University of Illinois at Urbana-Champaign
 
 ### Sponsored By
 
