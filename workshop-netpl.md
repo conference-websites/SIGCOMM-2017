@@ -36,7 +36,7 @@ This is the third NetPL workshop, after [last year's workshop](http://conference
 
 {% include program-online.html type="netpl" %}
 
-#### Invited Speakers
+### Invited Speakers
 
 The program will include invited talks from experts in the field, with an emphasis on encouraging engaging technical discussions amongst the participants.
 
@@ -48,7 +48,12 @@ Our preliminary program includes several illustrious speakers:
 - Mooly Sagiv, Tel Aviv University
 - Boon Thau Loo, University of Pennsylvania
 
-#### Topics of Interest
+### Sponsored By
+
+<a href="https://www.veriflow.net/" taget="_blank"><img style="width: 40%" align="middle" src="{{ site.baseurl }}/images/workshop-NetPL2017-sponsor-veriflow.png" alt="Veriflow" /></a>
+{: style="text-align: center;" }
+
+### Topics of Interest
 
 We are also soliciting contributions from prospective participants in the form of talk proposals to broaden the research that is discussed at the workshop.
 
@@ -73,7 +78,7 @@ We give no firm guidelines on topics (go wild but stay within scope!), however w
 
 [Contact workshop co-chairs](mailto:nbjorner@microsoft.com,marco@kaust.edu.sa,Nik.Sultana@cl.cam.ac.uk?subject=[NetPL 2017]){: data-role="button" class="button" }.
 
-#### Submission Instructions
+### Submission Instructions
 
 Submit a position paper of at most 2 pages length, 10-pt font, which will be lightly reviewed by the workshop program chairs.
 
