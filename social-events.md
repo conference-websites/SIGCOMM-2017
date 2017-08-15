@@ -22,7 +22,7 @@ events:
 - id: conference-banquet
   name: Conference Banquet
   date: Tuesday, August 22
-  time: 7:00pm - 10:00pm
+  time: 6:30pm - 9:00pm
   address: Dickson Plaza North, UCLA Campus
   <!-- image: images/map_UCLA/banquet.jpg -->
   <!-- image_url: images/map_UCLA/banquet.jpg -->
