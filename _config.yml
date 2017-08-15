@@ -64,6 +64,8 @@ menu:
       url: /program-posters.html
     - name: Demos
       url: /program-demos.html
+    - name: Industrial Demos
+      url: /program-industrial-demos.html
     - name: Awards
       url: /awards.html
     - name: Social Events
