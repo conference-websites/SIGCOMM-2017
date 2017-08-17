@@ -82,8 +82,6 @@ mentors:
          affiliation: MSR
        - name:        Justine Sherry
          affiliation: CMU
-       - name:        Phillipa gill
-         affiliation: UMASS
        - name:        Marco Canini
          affiliation: Université Catholique de Louvain
        - name:        Sami Rollins
@@ -119,6 +117,8 @@ The registration is through the [SIGCOMM conference registration](#TBD).
 
 ## Directions
 
+Please, note that the N2Women workshop will be held in the **BOELTER HALL** building!
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1017.2377983215065!2d-118.44502349932687!3d34.06911252279041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x80c2bc88a7fe279b%3A0x1b84a71ecd8dc065!2sLuskin+Conference+Center+Hotel%2C+Westwood+Plaza%2C+Los+Angeles%2C+CA!3m2!1d34.0692557!2d-118.44569829999999!4m5!1s0x80c2bc8632b4bcf3%3A0x8087319fe00f1e04!2sBoelter+Hall%2C+Portola+Plaza%2C+Los+Angeles%2C+CA!3m2!1d34.069172699999996!2d-118.4431053!5e0!3m2!1sen!2sus!4v1501948979184" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 #### Sponsored By
@@ -150,6 +150,25 @@ Presenting a poster is a great opportunity, especially for students, to obtain i
 Each submission should be formatted as an extended abstract, describing the research to be presented in the poster. The length of the extended abstract should be at most TWO pages (formatted into the US letter size of 8.5 x 11 inches with fonts no smaller than 10-point size), including all figures and references. The extended abstract must include the names, affiliations and email addresses of all authors and should be submitted as a single PDF file at <a href="https://n2women17.hotcrp.com/">https://n2women17.hotcrp.com/</a>.
 
 For more information, please contact the Workshop Chairs: <a href="mailto:n2women-workshop@acm.org?Subject=N2Women%20Posters">n2women-workshop@acm.org</a>
+
+**Accepted Posters**
+
+* Mahmuda Naznin - Data Collection by Mobile Data Collector in a Clustered Network
+* Fatima Muhammad Anwar - Network-wide Optimizations for Time-Coordinated Applications
+* Diana Andreea Popescu - Characterizing Network Latency Impact on Cloud Applications’ Performance
+* Khulan Batbayar - Connectivity sharing for wireless mesh networks
+* Colleen Josephson - Freerider: Backscattering Ambient ISM Band Signals
+* María José Erquiaga - Observer effect: How Intercepting HTTPS traffic forces malware to change its behavior
+* Safieh Khodadoustan - Cross-Layer Methods to Improve Reliability and Energy Efficiency in Wireless Body Area Networks as Part of IoT
+* Kanza Bayad - Implementing an Information Security Risk Management Standard on VANET
+* Qianru Zhou - SeaNet: Semantic Empowered Autonomic Software Defined Network Management
+* Mahmuda Naznin - Low Overhead ID for IOT Nodes
+* Mariko Kobayashi - Analysis of a Survey on Behaviors of Captive Portal
+* Wafa Badreddine - Broadcast Strategies in Wireless Body Area Networks
+* Nancy Ronquillo - Measurement Dependent Noisy Search in Communications Systems
+* Cherifa Boucetta - Cuckoo Search based Clustering Routing for Large Scale Wireless Sensor Networks
+* Francesca Soro - Big-DAMA - a Big Data Analytics Framework for Large-Scale Network Traffic Monitoring and Analysis
+* Michele Nogueira - Transmission of Medical Alerts on Wireless Networks Aware of Illness Early Signs
 
 ## Travel Grants
 
@@ -188,4 +207,4 @@ For any questions, please contact the N2Women Travel Grant Committee at [n2women
 
 ## Support
 
-This workshop is possible thanks to the generous support of SIGCOMM, IEEE COMSOC, and Google.
+This workshop is possible thanks to the generous support of SIGCOMM, IEEE COMSOC, NSF, Facebook and Google.
