@@ -5,11 +5,11 @@ group: Workshops
 
 dates:
     - info: Poster submission deadline
-      date: <del>June 2, 2017</del> June 9, 2017
+      date: <del>June 2, 2017</del> <del>June 9, 2017</del>
     - info: Poster acceptance notification
-      date: June 16, 2017
+      date: <del>June 16, 2017</del>
     - info: Travel grants deadline
-      date: June 9, 2017
+      date: <del>June 9, 2017</del>
     - info: Workshop Date
       date: August 20, 2017
 
@@ -48,8 +48,8 @@ committees:
 
     - role: Steering Committee
       people:
-       - name:        "Katia Jaffres-Runser"
-         affiliation: "Maître de Conférences, Université de Toulouse"
+       - name:        Katia Jaffres-Runser
+         affiliation: Université de Toulouse
        - name:        Sami Rollins
          affiliation: University of San Francisco
        - name:        Tracy Camp
@@ -60,36 +60,36 @@ committees:
 mentors:
     - role: Mentors
       people:
-       - name:        Jiasi Chen
-         affiliation: UCR
-       - name:        Te-Yuan Huang
-         affiliation: Netflix
-       - name:        James Mickens
-         affiliation: Harvard Univ.
-       - name:        Keith Winstein
-         affiliation: Stanford Univ.
-       - name:        George Porter
-         affiliation: UCSD
-       - name:        Rachit Agarwal
-         affiliation: Cornell
        - name:        Ethan Katz-bassett
          affiliation: USC/Columbia
-       - name:        Yashar Ganjali
-         affiliation: Toronto Univ.
-       - name:        Ying Zhang
-         affiliation: Facebook
+       - name:        George Porter
+         affiliation: UCSD
+       - name:        Karen Sollins
+         affiliation: MIT
+       - name:        Keith Winstein
+         affiliation: Stanford Univ.
+       - name:        James Mickens
+         affiliation: Harvard Univ.
+       - name:        Jiasi Chen
+         affiliation: UCR
        - name:        Jitu Padhye
          affiliation: MSR
        - name:        Justine Sherry
          affiliation: CMU
        - name:        Marco Canini
-         affiliation: Université Catholique de Louvain
-       - name:        Sami Rollins
-         affiliation: University of San Francisco
-       - name:        Karen Sollins
-         affiliation: MIT
+         affiliation: KAUST
+       - name:        Rachit Agarwal
+         affiliation: Cornell
        - name:        Samantha Lo
          affiliation: Google
+       - name:        Sami Rollins
+         affiliation: University of San Francisco
+       - name:        Te-Yuan Huang
+         affiliation: Netflix 
+       - name:        Yashar Ganjali
+         affiliation: Toronto Univ.
+       - name:        Ying Zhang
+         affiliation: Facebook      
 ---
 
 ## {{ page.title }}
@@ -107,7 +107,7 @@ The N2Women workshop has three main goals:
 ## Registration
 
 Registration to the workshop is FREE.
-The registration is through the [SIGCOMM conference registration](#TBD).
+The registration is through the [SIGCOMM conference registration].
 
 ## Workshop Program
 
