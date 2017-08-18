@@ -1,3 +1,5 @@
+{% if abstract_label == nil %}{% assign abstract_label = 'Abstract' %}{% endif %}
+
 {% if paper.abstract == nil or paper.abstract == "" %}
   {% include tprog-item.html %}
 {% else %}
@@ -45,7 +47,7 @@
     </h4>
     <ul data-role="listview" data-inset="false">
       <li data-icon="false">
-        <p><b>Abstract: </b>{{ paper.abstract }}</p>
+        <p><b>{{ abstract_label }}: </b>{{ paper.abstract }}</p>
         <p>&nbsp;</p>
       </li>
     </ul>
