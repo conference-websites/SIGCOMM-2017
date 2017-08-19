@@ -72,8 +72,6 @@ mentors:
          affiliation: Harvard Univ.
        - name:        Jiasi Chen
          affiliation: UCR
-       - name:        Jitu Padhye
-         affiliation: MSR
        - name:        Justine Sherry
          affiliation: CMU
        - name:        Marco Canini
