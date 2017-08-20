@@ -115,9 +115,20 @@ The registration is through the [SIGCOMM conference registration].
 
 ## Directions
 
-Please, note that the N2Women workshop will be held in the **BOELTER HALL** building!
+The N2Women workshop will be held in the **Boelter Hall Building**.
+Entrance to the building is on from the Court of Sciences, on the fifth floor of the building. The workshop will be held at BH 3400, two floors below the entrance.
 
+The map below shows the recommended way between Luskin Center and the entrance to Boelter Hall.       
+
+<img src="{{ site.baseurl }}/images/map_UCLA/luskin-to-boelter.jpg" style="max-width: 100%" />
+{: style="text-align: center;" }
+
+**Accessibility:** Note that this way requires climbing some stairs. That long arrow between Ackerman Union and  Engineering VI is primarily up flights of stairs.  One can avoid the stairs by going into Ackerman Union and taking an elevator up two floors.  You can then walk out to the area between Ackerman and Kerckhoff and get back on that long red arrow. 
+
+
+{% comment %}
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1017.2377983215065!2d-118.44502349932687!3d34.06911252279041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x80c2bc88a7fe279b%3A0x1b84a71ecd8dc065!2sLuskin+Conference+Center+Hotel%2C+Westwood+Plaza%2C+Los+Angeles%2C+CA!3m2!1d34.0692557!2d-118.44569829999999!4m5!1s0x80c2bc8632b4bcf3%3A0x8087319fe00f1e04!2sBoelter+Hall%2C+Portola+Plaza%2C+Los+Angeles%2C+CA!3m2!1d34.069172699999996!2d-118.4431053!5e0!3m2!1sen!2sus!4v1501948979184" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+{% endcomment %}
 
 #### Sponsored By
 
