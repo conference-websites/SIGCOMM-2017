@@ -70,7 +70,8 @@ For more detailed information about the tutorial and additional activities, plea
 
 {% include program.html type="tutorial-ndn" data=page.data %}
 
-Note that we have optional, but very interesting afternoon activities.  See more on [NDN Tutorial homepage](https://named-data.net/tutorials/sigcomm2017/)
+Note this tutorial has a companion afternoon program with the description of what have been accomplished so far using IoT and global-scale demonstrations.
+See more on [NDN Tutorial homepage](https://named-data.net/tutorials/sigcomm2017/)
 
 ### Motivation
 
