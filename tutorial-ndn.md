@@ -70,6 +70,8 @@ For more detailed information about the tutorial and additional activities, plea
 
 {% include program.html type="tutorial-ndn" data=page.data %}
 
+Note that we have optional, but very interesting afternoon activities.  See more on [NDN Tutorial homepage](https://named-data.net/tutorials/sigcomm2017/)
+
 ### Motivation
 
 This half-day tutorial aims to provide a comprehensive overview of [Named Data Networking (NDN)](https://named-data.net/), a newly developed Internet architecture. NDN replaces TCP/IP architecture's focus on "where", i.e., the addresses and hosts, with "what", i.e., the content that users and applications care about. This fundamental shift brings profound impacts to enhancing Internet security, enabling mobility support, scaling both data disseminations as well as data collection (e.g., from IoT devices), and facilitating new application development.
