@@ -52,6 +52,8 @@ Unlike most of its counterparts that offer mostly theoretic content, this tutori
 
 ### Tutorial Program
 
+[Tutorial slides](files/tutorial-adaptive-streaming.pdf)
+
 {% include program.html type="tutorial-adaptive-streaming" data=page.data %}
 
 ### Topics Covered
