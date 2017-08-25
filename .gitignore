@@ -3,5 +3,4 @@
 Gemfile.lock
 _site
 .sass-cache
-.travis.d/*.json
 *.pyc

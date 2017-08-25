@@ -23,6 +23,7 @@ google_analytics_id: UA-83529610-1
 
 program:
   # If the specified file doesn't exist, there will be command-line dialog to create it
+  # (Currently hardcoded for a dummy robot.mcrobot.jr@gmail.com account permissions)
   google_client_id: .travis.d/google_client_id.json
   # Google spreadsheet with the conference data
   spreadsheet:
