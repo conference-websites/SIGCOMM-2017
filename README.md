@@ -1,52 +1,18 @@
-#  ACM SIGCOMM 2016 Web Site
+#  ACM SIGCOMM 2017 Web Site
 
-This repository contains code and data for the ACM SIGCOMM 2016 web site.
-
+This repository contains code and data for the ACM SIGCOMM 2017 web site.
 
 ## License
 
-Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (see LICENSE.md for details).
-
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (see [LICENSE.md](LICENSE.md) for details).
 
 ## Credits
 
-### 2012 site
-
-The 2014 site was based on the ACM SIGCOMM 2012 web site.  The license for the 2012 site's code is as follows.
-
-You are welcome to reuse and adapt this code for your conference. It is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Please see http://creativecommons.org/licenses/by-nc-sa/3.0/. Source code is available at https://github.com/ryanrhymes/SIGCOMM2012.
-
-Under the license, you acknowledge "ACM SIGCOMM 2012" as the source and you link to http://conferences.sigcomm.org/sigcomm/2012/. You will also share any changes and improvements to this code openly. The best way to do so is to fork our github repository at https://github.com/ryanrhymes/SIGCOMM2012.
-
-### 2014 site
-
-The repository for the 2014 site is at https://github.com/brighten/SIGCOMM2014 and the site itself is online at http://conferences.sigcomm.org/sigcomm/2014/ .
-
-You are welcome to reuse and adapt the 2014 code under the same Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License and the same sharing conditions as above.
-
-The 2014 site includes a number of code and interface enhancements, such as `scripts/generate_programs`, and is also missing certain older scripts.
-
-The 2014 web chair was Brighten Godfrey, with Xuefeng Zhu working on web and tool programming.
-
-### 2016 site
-
-The 2016 site is based on the 2014 site. The repository for the 2016 site is at https://github.com/apietila/SIGCOMM2016 and the site itself is online at http://conferences.sigcomm.org/sigcomm/2016/ .
-
-The 2016 site updates the 3rd party libraries, and the automatic content generation scripts are re-written.
-
-You are welcome to reuse and adapt the 2016 code under the same Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License and the same sharing conditions as above.
-
-The 2016 web chairs were 
-Anna-Kaisa Pietilainen <annakaisa.pietilainen@gmail.com> and 
-Weverton Cordeiro <weverton.cordeiro@inf.ufrgs.br>.
-
-### 2017 site
-
-The 2017 site is based on the 2016 site, but changed to use Jekyll framework instead of relying on PHP.  The repository for the 2017 site is at https://github.com/cawka/SIGCOMM2017 and the site itself is online at http://conferences.sigcomm.org/sigcomm/2017/ .
+The 2017 site is based on the [2016 site](https://github.com/apietila/SIGCOMM2016), but changed to use Jekyll framework instead of relying on PHP.  The repository for the 2017 site is at https://github.com/conference-websites/SIGCOMM-2017 and the site itself is online at [http://conferences.sigcomm.org/sigcomm/2017/](http://conferences.sigcomm.org/sigcomm/2017/).
 
 You are welcome to reuse and adapt the 2017 code under the same Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License and the same sharing conditions as above.
 
-The 2017 web chair was [Alex Afanasyev](http://lasr.cs.ucla.edu/afanasyev/index.html)
+The 2017 web chair was [Alex Afanasyev](http://users.cs.fiu.edu/~afanasyev/)
 
 #### Generating site using jekyll
 
@@ -92,7 +58,7 @@ The site uses a bunch of 3rd party javascript libraries. You will want to use th
 
 To get started, first check out:
 
-http://www.sigcomm.org/conference-planning/web-chairs .
+http://www.sigcomm.org/conference-planning/web-chairs
 
 You'll have to request an account at:
 
@@ -100,8 +66,7 @@ http://campus.acm.org/public/infodir/account_request.cfm
 
 For questions or to check on status of your request, you may try following up with ishelpdesk@hq.acm.org.
 
-You should receive further instructions from ACM on how to upload content to the server when your account is setup. 
-
+You should receive further instructions from ACM on how to upload content to the server when your account is setup.
 
 ## Advice and Future Enhancement Ideas from 2017 Web Chairs
 
@@ -110,4 +75,3 @@ One thing that would really be good to automate is creation of "schedule-at-glan
 Consider adding support for mobile apps.
 
 Some of the styling in the program doesn't look too good on mobiles, especially when links to papers/slides are added.  Consider hacking jquerymobile to make visualization a bit better.
-
