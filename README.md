@@ -103,7 +103,11 @@ For questions or to check on status of your request, you may try following up wi
 You should receive further instructions from ACM on how to upload content to the server when your account is setup. 
 
 
-## Advice and Future Enhancement Ideas from 2016 Web Chairs
+## Advice and Future Enhancement Ideas from 2017 Web Chairs
 
-TODO
+One thing that would really be good to automate is creation of "schedule-at-glance".  Right now, it was generated from a google spreadsheet more or less by hand and close to conference dates there are a number of modifications you may expect there.
+
+Consider adding support for mobile apps.
+
+Some of the styling in the program doesn't look too good on mobiles, especially when links to papers/slides are added.  Consider hacking jquerymobile to make visualization a bit better.
 
