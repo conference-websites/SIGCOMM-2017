@@ -54,6 +54,8 @@ The tutorial is supported by a textbook on "Vehicular Networking" authored by Fa
 
 ### Tutorial Program
 
+[Tutorial slides](files/tutorial-c2c.pdf)
+
 {% include program.html type="tutorial-c2c" data=page.data %}
 
 ### Topics Covered
