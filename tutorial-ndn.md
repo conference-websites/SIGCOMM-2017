@@ -68,6 +68,22 @@ For more detailed information about the tutorial and additional activities, plea
 
 ### Tutorial Program
 
+Tutorial slides and videos:
+
+1. [NDN – Why Bother? (Van Jacobson)](https://youtu.be/uvnP-_R-RYA)
+
+2. [NDN Research (Beichuan Zhang)](https://youtu.be/1BOU-Dky93I) ([Slides](https://named-data.net/tutorials/sigcomm2017/assets/slides/3-research.pdf))
+
+3. [NDN Codebase and Development (Alex Afanasyev)](https://youtu.be/5fncxmCPsdw) ([Slides](https://named-data.net/tutorials/sigcomm2017/assets/slides/4-codebase-overview.pdf))
+
+4. [NDN Demos I: ONL, Testbed (John DeHart)](https://youtu.be/KhPqFPg4oWo) ([Slides](https://named-data.net/tutorials/sigcomm2017/assets/slides/5-demo-1.pdf))
+
+5. [NDN Demos II: Cloud-optional Home IoT (Jeff Burke, Yanbiao Li)](https://youtu.be/9e9cnQVZcJE) ([Slides](https://named-data.net/tutorials/sigcomm2017/assets/slides/6-demo-2.pdf))
+
+6. [NDN Demos III: NDNHealth (Jeff Burke, Haitao Zhang)](https://youtu.be/k74e8w3JbBw)
+
+7. [Wrap-up (Lixia Zhang)](https://youtu.be/Bs06zntYI9c)
+
 {% include program.html type="tutorial-ndn" data=page.data %}
 
 Note this tutorial has a companion afternoon program with the description of what have been accomplished so far using IoT and global-scale demonstrations.
