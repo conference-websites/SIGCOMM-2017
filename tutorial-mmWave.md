@@ -52,6 +52,20 @@ The objective of this tutorial is to present to networking researchers an overvi
 
 ### Tutorial Program
 
+Tutorial slides
+
+- [Part 1. Intro and Channel models](files/tutorial-mmWave/1-intro.pptx)
+
+- [Part 2. Protocol Standards](files/tutorial-mmWave/2-standards.pptx)
+
+- [Part 3. Compressive Beamforming](files/tutorial-mmWave/3-beamforming.pptx)
+
+- [Part 4. Higher layers](files/tutorial-mmWave/4-higher-layers.pptx)
+
+- [Part 6. LOS mmWave MIMO](files/tutorial-mmWave/6-LOS.pptx)
+
+- [Part 7. Conclusion](files/tutorial-mmWave/7-conclusion.pptx)
+
 {% include program.html type="tutorial-mmWave" data=page.data %}
 
 ### Motivation
