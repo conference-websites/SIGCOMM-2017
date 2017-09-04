@@ -62,6 +62,8 @@ Tutorial slides
 
 - [Part 4. Higher layers](files/tutorial-mmWave/4-higher-layers.pptx)
 
+- [Part 5. mmWave sensing](files/tutorial-mmWave/5-sensing.pptx)
+
 - [Part 6. LOS mmWave MIMO](files/tutorial-mmWave/6-LOS.pptx)
 
 - [Part 7. Conclusion](files/tutorial-mmWave/7-conclusion.pptx)
