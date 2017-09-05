@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Sixth Networking Networking Women Workshop (N2Women'17): Personal Development Workshop"
+title: "The Sixth Networking Networking Women Workshop (N2Women'17): Professional Development Workshop"
 group: Workshops
 
 dates:
@@ -101,6 +101,8 @@ The N2Women workshop has three main goals:
 * Connect newer generations of networking women researchers with the community and create mentorship relationships.
 * Create a research forum in which students and junior researchers learn and discuss current trends in networking, present their research and receive feedback.
 * Engage a diverse body of junior researchers in the field.
+
+{% img workshop-n2women-group.jpg alt:"N2Women'17 Group Photo" magick:resize:"800x" style:'max-width\:100%' %}
 
 ## Registration
 

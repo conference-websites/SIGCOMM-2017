@@ -10,6 +10,9 @@ sass:
   style: compressed
 encoding: UTF-8
 
+plugins:
+  - jekyll-assets
+
 url: http://conferences.sigcomm.org
 baseurl: /sigcomm/2017
 
@@ -199,4 +202,21 @@ colors:
     break-background: d1d1d1
 
 # Set to True when ready to show Live Streaming links in the program
-enable_remote: True
+enable_remote: false
+
+assets:
+  cache: .sass-cache
+  features:
+    automatic_img_size: false
+
+  sources:
+    - _assets/css
+    - _assets/images
+    - _assets/fonts
+    - _assets/js
+    - _assets/bower
+
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
