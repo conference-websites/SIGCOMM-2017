@@ -90,6 +90,18 @@ We aim at attendees becoming able to write a simple packet processing applicatio
 
 ### Tutorial Program
 
+Tutorial slides:
+
+- [An introduction to Netamp](files/tutorial-netmap/01-intro.pdf)
+
+- [Netmap as a backend for VMs](files/tutorial-netmap/02-virtualization.pdf)
+
+- [VALE (mSwitch)](files/tutorial-netmap/03-vale.pdf)
+
+Tutorial codebase:
+
+- [https://github.com/vmaffione/netmap-tutorial](https://github.com/vmaffione/netmap-tutorial)
+
 {% include program.html type="tutorial-netmap-nfv" data=page.data %}
 
 ### Motivation
