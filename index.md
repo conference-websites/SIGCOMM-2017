@@ -19,8 +19,8 @@ SIGCOMM is the flagship annual conference of the ACM Special Interest Group on D
 <!-- ### [Cut off date for conference rate at Hotel Angeleno: July 31, 2017]({{ site.baseurl }}/accommodations.html) -->
 <!-- {: style="text-align: center" } -->
 
-### [>> Remote Participation Info <<]({{ site.baseurl }}/remote.html)
-{: style="text-align: center" }
+<!-- ### [>> Remote Participation Info <<]({{ site.baseurl }}/remote.html) -->
+<!-- {: style="text-align: center" } -->
 
 
 ## <i class="fa fa-newspaper-o"></i> News

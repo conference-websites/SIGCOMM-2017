@@ -86,7 +86,7 @@
     of a best-practice technique for these specific domains.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098594&ftid=1898349&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33836"
   slides: ''
   video: ''
   COL_UID: ''
@@ -100,7 +100,7 @@
     <p>In this paper, we present a novel load-balancing approach for machine-learning based security appliances. Our proposed load-balancer uses clustering method while keeping balanced load across all of the network security appliance’s instances. We demonstrate that our approach is scalable and improves the machine-learning performance of the instances, as compared to traditional load-balancers.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098595&ftid=1898353&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33837"
   slides: ''
   video: ''
   COL_UID: ''
@@ -124,7 +124,7 @@
     changes in the network workload.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098598&ftid=1898347&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33830"
   slides: ''
   video: ''
   COL_UID: ''
@@ -213,7 +213,7 @@
 '
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098597&ftid=1898350&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33839"
   slides: ''
   video: ''
   COL_UID: ''
@@ -228,7 +228,7 @@
     <p>Finally, we showcase the use of Net2Vec by implementing and testing a solution able to profile network users at line rate using traces coming from a real network. We show that the use of deep learning for this case outperforms the baseline method both in terms of accuracy and performance.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098596&ftid=1898345&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33838"
   slides: ''
   video: ''
   COL_UID: ''
@@ -307,7 +307,7 @@
     as all evaluation datasets.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098599&ftid=1898351&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33831"
   slides: ''
   video: ''
   COL_UID: ''
@@ -331,7 +331,7 @@
     less than 0.5 dB with a precision of over 99</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098600&ftid=1898352&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33832"
   slides: ''
   video: ''
   COL_UID: ''
@@ -385,7 +385,7 @@
     for users’ locations.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098601&ftid=1898346&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33833"
   slides: ''
   video: ''
   COL_UID: ''
@@ -411,7 +411,7 @@
     to build the model.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098602&ftid=1898348&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33834"
   slides: ''
   video: ''
   COL_UID: ''

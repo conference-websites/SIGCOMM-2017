@@ -102,7 +102,7 @@
     the network configurations to be modified in a software-defined way.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3097621&ftid=1899221&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33445"
   slides: ''
   video: ''
   COL_UID: ''
@@ -129,7 +129,7 @@
     environments, showing significant performance benefits as a result.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3097622&ftid=1899223&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33446"
   slides: ''
   video: ''
   COL_UID: ''
@@ -152,7 +152,7 @@
     objects, content popularity, and correlation between content popularity and mobility.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3097623&ftid=1899225&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33447"
   slides: ''
   video: ''
   COL_UID: ''
@@ -189,7 +189,7 @@
     show that our system can achieve a mean prediction accuracy of 93.8</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3097624&ftid=1899219&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33448"
   slides: ''
   video: ''
   COL_UID: ''
@@ -221,7 +221,7 @@
     access control.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3097625&ftid=1899220&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33449"
   slides: ''
   video: ''
   COL_UID: ''
@@ -260,7 +260,7 @@
     <p>We propose DICE, an ICN forwarding strategy that helps a device dynamically select a subset of its multi-RAT interfaces for communication. DICE assesses the state of edge links and network congestion to determine the minimum number of interfaces required to perform data delivery. We perform simulations to compare DICE’s performance with bestroute2 and multicast strategies (part of the named data networking simulator, ndnSIM). We show that DICE is the best of both worlds: providing a higher delivery ratio (0.2–2 times) and much lower overhead (by 2–8 times) for different packet rates.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3097626&ftid=1899226&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33440"
   slides: ''
   video: ''
   COL_UID: ''
@@ -276,7 +276,7 @@
     <p>A qualitative and quantitative evaluation of the named object architecture is given relative to alternative ICN designs such as Content Centric Networking (CCN) as well as name-based protocols evolved from IP, i.e. HIP and LISP. Results of the evaluation are given to demonstrate that the proposed named object abstraction provides superior performance for a sample set of mobility services and this has the potential to serve as a foundation for future mobile network protocols.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3097627&ftid=1899224&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33441"
   slides: ''
   video: ''
   COL_UID: ''
@@ -298,7 +298,7 @@
     performance regardless of receiver mobility.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3097628&ftid=1899222&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33442"
   slides: ''
   video: ''
   COL_UID: ''

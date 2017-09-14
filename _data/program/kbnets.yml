@@ -94,7 +94,7 @@
     <p>This paper addresses this limitation by introducing cache replication at the server side by expanding Memcached (which currently provides availability via client side replication). This paper presents the design and implementation of LogMemcached, a modification of Memcached’s internal data structures to include state replication via RDMA to provide an increased system availability, improved failure resilience and enhanced load balancing capabilities without compromising performance and with introducing a very low CPU load, while keeping the main principles of Memcached’s Design Philosophy.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098584&ftid=1899552&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34781"
   slides: ''
   video: ''
   COL_UID: ''
@@ -122,7 +122,7 @@
     by 3x, compared to the optimized CPU-only OvS-DPDK implementation.</p>"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098585&ftid=1899550&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34782"
   slides: ''
   video: ''
   COL_UID: ''
@@ -137,7 +137,7 @@
     <p>To solve above problems, we propose VIRTIO-USER, as a versatile, performant, secure and standardized channel. Instead of using hypervisor to bridge frontend and backend driver, we implement an embedded vhost adapter in frontend driver to talk with vhost backend directly. It keeps other mechanisms like memory sharing model, ring layout and feature negotiation, in the same way with VIRTIO. We implement and upstream it into DPDK. In comparison with kernel-based container networking and existing exception path solution, our evaluation shows +3.5x performance boost in both scenarios.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098586&ftid=1899547&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34783"
   slides: ''
   video: ''
   COL_UID: ''
@@ -163,7 +163,7 @@
     limiting scalability further.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098587&ftid=1899553&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34784"
   slides: ''
   video: ''
   COL_UID: ''
@@ -232,7 +232,7 @@
     <p>In this paper, we discuss the latest developments in RoCE congestion control. Hardware congestion control reduces the latency of the congestion control loop; it reacts promptly in the face of congestion by throttling the transmission rate quickly and accurately. The short control loop also prevents network buffers from overfilling under various congestion scenarios. In addition, fast hardware retransmission complements congestion control in severe congestion scenarios, by significantly reducing the performance penalty of packet drops. We survey architectural features that allow deployment of RoCE over lossy networks and present real lab test results.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098588&ftid=1899549&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34795"
   slides: ''
   video: ''
   COL_UID: ''
@@ -247,7 +247,7 @@
     <p>In this paper we propose that multiple processing functions should simply share a CPU core, turning the CPU into a special type of “link”. We use multiple NIC receive queues and the Fastclick suite to test the feasibility of this approach. We find that, as expected, per core throughput decreases when more processes are contending, however the decrease is not dramatic: around 10 Finally, we implement and test in simulation a solution that enables efficient CPU sharing by sending congestion signals proportional to per-packet cost for each flow. This enables endpoint congestion control (e.g. TCP) to react appropriately and share the CPU fairly.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098589&ftid=1899551&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34796"
   slides: ''
   video: ''
   COL_UID: ''
@@ -285,7 +285,7 @@
     <p>Our work shows that well-designed commodity solutions can capture subtle differences in the tail latency of stateless UDP traffic. We use hardware devices as the ground truth, both to measure latency and to forward traffic. We compare the ground truth with observations that combine five latency-measuring clients and five different port forwarding solutions and configurations. State-of-the-art software such as MoonGen that uses NIC hardware timestamping provides sufficient visibility into tail latencies to study the effect of subtle operating system configuration changes. We also observe that the kernel-bypass-based T-Rex software, that only relies on the CPU to timestamp traffic, can also provide solid results when NIC timestamps are not available for a particular protocol or device.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098590&ftid=1899548&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34797"
   slides: ''
   video: ''
   COL_UID: ''
@@ -300,7 +300,7 @@
     <p>In this paper, we consider the performance isolation characteristics of RDMA. Specifically, we conduct three sets of experiments – three combinations of one throughput-sensitive flow and one latency-sensitive flow – in a controlled environment, observe large discrepancies in RDMA performance with and without the presence of a competing flow, and describe our progress in identifying plausible root-causes.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098591&ftid=1899555&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34798"
   slides: ''
   video: ''
   COL_UID: ''
@@ -326,7 +326,7 @@
     and Snort, a popular intrusion detection system.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098592&ftid=1899554&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34799"
   slides: ''
   video: ''
   COL_UID: ''

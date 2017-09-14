@@ -43,7 +43,7 @@
     bandwidth among flows.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131993&ftid=1900224&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34298"
   slides: ''
   video: ''
   COL_UID: ''
@@ -67,7 +67,7 @@
     for small flows and 3% for large flows with low implementation cost.</p>"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131994&ftid=1900237&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34299"
   slides: ''
   video: ''
   COL_UID: ''
@@ -96,7 +96,7 @@
     as well as a large body of work studying related topics.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131989&ftid=1900238&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34284"
   slides: ''
   video: ''
   COL_UID: ''
@@ -125,7 +125,7 @@
     to be optimized for multiple objectives including task performance.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132008&ftid=1900226&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34203"
   slides: ''
   video: ''
   COL_UID: ''
@@ -148,7 +148,7 @@
     copies.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131975&ftid=1900227&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34270"
   slides: ''
   video: ''
   COL_UID: ''
@@ -166,7 +166,7 @@
     the end hosts. Vigil can also be used to find the problematic links in the network.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131979&ftid=1900233&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34274"
   slides: ''
   video: ''
   COL_UID: ''
@@ -192,7 +192,7 @@
     key size.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131986&ftid=1900256&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34281"
   slides: ''
   video: ''
   COL_UID: ''
@@ -211,7 +211,7 @@
     with focus on the ip6-input node in VPP.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132010&ftid=1900225&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34215"
   slides: ''
   video: ''
   COL_UID: ''
@@ -234,7 +234,7 @@
     the intradomain link utilization.</p>"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131972&ftid=1900255&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34277"
   slides: ''
   video: ''
   COL_UID: ''
@@ -253,7 +253,7 @@
     Web page loads.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131980&ftid=1900263&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34285"
   slides: ''
   video: ''
   COL_UID: ''
@@ -271,7 +271,7 @@
     methods.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132011&ftid=1900242&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34216"
   slides: ''
   video: ''
   COL_UID: ''
@@ -303,7 +303,7 @@
     Internet community can draw lessons for future key rollovers.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131987&ftid=1900253&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34282"
   slides: ''
   video: ''
   COL_UID: ''
@@ -322,7 +322,7 @@
     results show that our models significantly improve modeling accuracy.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131995&ftid=1900270&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34290"
   slides: ''
   video: ''
   COL_UID: ''
@@ -340,7 +340,7 @@
     environments, allowing the collection of realistic and highly credible data.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131976&ftid=1900260&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34271"
   slides: ''
   video: ''
   COL_UID: ''
@@ -355,7 +355,7 @@
     <p>In this work, we make a first step towards verifying the correctness of inter-domain forwarding state with a focus on loop freedom while keeping private the SDN rules, as they comprise confidential routing information. To this end, we design a simple yet powerful primitive that allows two networks to verify whether their SDN rules overlap, i.e., the set of packets matched by these rules is non-empty, without leaking any information about the SDN rules. We propose an efficient implementation of this primitive by using recent advancements in Secure Multi-Party Computation and we then leverage it as the main building block for designing a system that detects Internet-wide forwarding loops among any set of SDN-enabled Internet eXchange Points.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131967&ftid=1900266&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34262"
   slides: ''
   video: ''
   COL_UID: ''
@@ -399,7 +399,7 @@
     demonstrate that BLOP could achieve order preserving with little performance overhead.</p>"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132013&ftid=1900222&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34218"
   slides: ''
   video: ''
   COL_UID: ''
@@ -422,7 +422,7 @@
     shedding light on future research of edge computing and IoT.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132009&ftid=1900272&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34204"
   slides: ''
   video: ''
   COL_UID: ''
@@ -444,7 +444,7 @@
     proxy’s operations are limited to relaying packets.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131996&ftid=1900230&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34291"
   slides: ''
   video: ''
   COL_UID: ''
@@ -464,7 +464,7 @@
     the Network Function performance for any possible workload only by code analysis.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131977&ftid=1900231&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34272"
   slides: ''
   video: ''
   COL_UID: ''
@@ -483,7 +483,7 @@
     modern workloads compared to existing distributed protocols or SDN-based solutions.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131968&ftid=1900259&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34263"
   slides: ''
   video: ''
   COL_UID: ''
@@ -504,7 +504,7 @@
     without requiring dedicated hardware KVS implementations.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132014&ftid=1900271&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34219"
   slides: ''
   video: ''
   COL_UID: ''
@@ -526,7 +526,7 @@
     gain via a prototype implementation.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131998&ftid=1900246&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34293"
   slides: ''
   video: ''
   COL_UID: ''
@@ -550,7 +550,7 @@
     the IP-based solution, especially in a network with packet losses.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131974&ftid=1900244&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34279"
   slides: ''
   video: ''
   COL_UID: ''
@@ -580,7 +580,7 @@
     called AS hegemony (§3).</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131982&ftid=1900247&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34287"
   slides: ''
   video: ''
   COL_UID: ''
@@ -597,7 +597,7 @@
     population - a major concern for networked systems in the future.</p>"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131983&ftid=1900239&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34288"
   slides: ''
   video: ''
   COL_UID: ''
@@ -617,7 +617,7 @@
     of a programmable data plane.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132001&ftid=1900252&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34206"
   slides: ''
   video: ''
   COL_UID: ''
@@ -635,7 +635,7 @@
     MFCT by ~32% and ~28% compared to OCS and EPS multicast, respectively.</p>"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131971&ftid=1900262&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34276"
   slides: ''
   video: ''
   COL_UID: ''
@@ -659,7 +659,7 @@
     our optimization on the network is less than 5%.</p>"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131969&ftid=1900229&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34264"
   slides: ''
   video: ''
   COL_UID: ''
@@ -686,7 +686,7 @@
     be achieved.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132007&ftid=1900221&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34202"
   slides: ''
   video: ''
   COL_UID: ''
@@ -706,7 +706,7 @@
     achieve a latency decrease over 20% and a throughput increase over 60%.</p>"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132003&ftid=1900245&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34208"
   slides: ''
   video: ''
   COL_UID: ''
@@ -730,7 +730,7 @@
     and a case of targeted phishing known as CEO fraud.</p>"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131988&ftid=1900223&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34283"
   slides: ''
   video: ''
   COL_UID: ''

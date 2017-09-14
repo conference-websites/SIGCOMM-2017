@@ -115,7 +115,7 @@
     networking. We qualify influencing factors and explain the cause of overhead.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3094406&ftid=1898934&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33929"
   slides: ''
   video: ''
   COL_UID: ''
@@ -139,7 +139,7 @@
     system that addresses the dilemma, and presents first ideas.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3094407&ftid=1898929&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33920"
   slides: ''
   video: ''
   COL_UID: ''
@@ -154,7 +154,7 @@
     <p>Traditional solutions to reduce e2e latency involve physical deployment of service elements in close proximity. These solutions are, however, no longer viable in the NFV era. In this paper, we present our solution that bounds the e2e latency in SFCs and inter-VNF control message exchanges by creating micro-service aggregates based on the affinity between VNFs. Our system, Contain-ed, dynamically creates and manages affinity aggregates using light-weight virtualization technologies like containers, allowing them to be placed in close proximity and hence bounding the e2e latency. We have applied Contain-ed to the Clearwater IP Multimedia System and built a proof-of-concept. Our results demonstrate that, by utilizing application and protocol specific knowledge, affinity aggregates can effectively bound SFC delays and significantly reduce protocol errors and service disruptions.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3094408&ftid=1898931&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33921"
   slides: ''
   video: ''
   COL_UID: ''
@@ -170,7 +170,7 @@
     <p>In this paper, we present a mutable container provisioning solution, enabling users to switch infrastructure between VMs and containers seamlessly. Our solution allows for significant infrastructure-cost optimizations.We discuss that immutable containers come short for certain provisioning scenarios. However, mutable containers can incur a large time overhead. To reduce the time overhead, we propose multiple provisioning-time optimizations.We implement our solution in Karamel, an open-sourced reproducible provisioning system. Based on our evaluation results, we discuss the cost-optimization opportunities and the time-optimization challenges of our new model.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3094409&ftid=1898936&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33922"
   slides: ''
   video: ''
   COL_UID: ''
@@ -214,7 +214,7 @@
     we demonstrate the effectiveness of the proposed approach.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3094410&ftid=1898932&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33923"
   slides: ''
   video: ''
   COL_UID: ''
@@ -240,7 +240,7 @@
     overhead is not affected by the number of either clients or servers.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3094411&ftid=1898930&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33924"
   slides: ''
   video: ''
   COL_UID: ''
@@ -264,7 +264,7 @@
     into IoT domain.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3094412&ftid=1898933&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33935"
   slides: ''
   video: ''
   COL_UID: ''
@@ -288,7 +288,7 @@
     of the framework on low-power nodes.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3094413&ftid=1898935&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33936"
   slides: ''
   video: ''
   COL_UID: ''

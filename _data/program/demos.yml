@@ -40,7 +40,7 @@
     features at runtime and offers reliable enforcement of network policies.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132000&ftid=1900249&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34205"
   slides: ''
   video: ''
   COL_UID: ''
@@ -67,7 +67,7 @@
     naïve replication when defending against a range of asymmetric attacks.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131990&ftid=1900240&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34295"
   slides: ''
   video: ''
   COL_UID: ''
@@ -83,7 +83,7 @@
     <p>Until recently, it was not possible to implement a load balancer with PCC in a commercial off-the-shelf (COTS) switching ASIC, because high-performance switching ASICs typically cannot maintain per-connection states with PCC. Newer switching ASICs provide resources and primitives to enable PCC at a large scale. We present a system, called SilkRoad, that is defined in a 400 line P4 program, and when compiled to a state-of-the-art switching ASIC, it can load-balance millions of connection simultaneously at line rate. Our conference paper details the solution design and evaluates its scale and cost by running trace-driven simulations on the data collected from a large web service provider. The paper also shows the feasibility of storing millions of connection states into a switching ASIC. On top of that, the present two-page abstract shows the full cycle of connection and DIP pool management, explaining the co-design between switch data plane (ASIC) and control plane (software) to enable PCC in switching ASICs.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132012&ftid=1900264&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34217"
   slides: ''
   video: ''
   COL_UID: ''
@@ -101,7 +101,7 @@
     data without the need of storing any personal information.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131978&ftid=1900254&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34273"
   slides: ''
   video: ''
   COL_UID: ''
@@ -120,7 +120,7 @@
     will setup a small testbed of Wi-Fi Goes to Town system and demo how it works.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132004&ftid=1900269&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34209"
   slides: ''
   video: ''
   COL_UID: ''
@@ -143,7 +143,7 @@
     required by the original software.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131965&ftid=1900234&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34260"
   slides: ''
   video: ''
   COL_UID: ''
@@ -162,7 +162,7 @@
     the overflow attack effectively.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132015&ftid=1900248&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34210"
   slides: ''
   video: ''
   COL_UID: ''
@@ -181,7 +181,7 @@
     Angeles and show how Ruru can be used for anomaly detection and network planning.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131981&ftid=1900250&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34286"
   slides: ''
   video: ''
   COL_UID: ''
@@ -196,7 +196,7 @@
     <p>A video demo of the prototype is available at https://vimeo.com/217788815 .</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132016&ftid=1900257&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: //dl.acm.org/authorize?N34211"
   slides: ''
   video: ''
   COL_UID: ''
@@ -220,7 +220,7 @@
     be used in conjunction with Topology Generator or independently.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131966&ftid=1900258&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34261"
   slides: ''
   video: ''
   COL_UID: ''
@@ -260,7 +260,7 @@
     <p>With regard to this it becomes even more important to provide online services that protect the privacy of their users and avoid censorship by single, powerful entities. To reach these goals, a trusted third party should be avoided. A prototype service which fulfills these goals is DPS-Discuss, a decentralized, pseudonymous online discussion application. It uses the libraries BitNym and Peer-Tor-Peer for pseudonym management and anonymous communication.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131991&ftid=1900265&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34296"
   slides: ''
   video: ''
   COL_UID: ''
@@ -292,7 +292,7 @@
     over ICN or standard TCP.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131973&ftid=1900232&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34278"
   slides: ''
   video: ''
   COL_UID: ''
@@ -310,7 +310,7 @@
     <p>Here, we present HARMLESS, a novel SDN switch design that combines the rapid innovation and upgrade cycles of software switches with the port density of hardware-based appliances into a fully data plane-transparent, vendor-neutral and cost-effective solution for smaller enterprises to gain a foothold in this era. The demo showcases the SDN migration of a dumb legacy Ethernet switch to a powerful, fully reconfigurable, OpenFlow-enabled network device without incurring any major performance and latency penalty nor any substantial price tag enabling to realize many use cases that would have needed standalone hardware appliances before.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131997&ftid=1900268&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34292"
   slides: ''
   video: ''
   COL_UID: ''
@@ -328,7 +328,7 @@
     to the Internet from a commercial phone located in the anechoic chamber are shown.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132005&ftid=1900261&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34200"
   slides: ''
   video: ''
   COL_UID: ''
@@ -349,7 +349,7 @@
     <p>In the following, we present the involved architectural components and outline the planned demonstration detailing fine-grained access control, firewall offloading for further optimization and the integration into a network management system.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131970&ftid=1900267&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34275"
   slides: ''
   video: ''
   COL_UID: ''
@@ -368,7 +368,7 @@
     analysis shortly after the data becomes exposed to our queries.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131992&ftid=1900236&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34297"
   slides: ''
   video: ''
   COL_UID: ''
@@ -390,7 +390,7 @@
     the objects.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132006&ftid=1900241&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34201"
   slides: ''
   video: ''
   COL_UID: ''
@@ -404,7 +404,7 @@
     <p>We proposed and prototyped NS4 by integrating a P4 behavioral model in ns-3, and evaluated its effectiveness by a user case study. Source codes and examples of NS4 are publicly available at https://ns-4.github.io/</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3132002&ftid=1900228&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34207"
   slides: ''
   video: ''
   COL_UID: ''
@@ -434,7 +434,7 @@
 '
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131999&ftid=1900243&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34294"
   slides: ''
   video: ''
   COL_UID: ''
@@ -458,7 +458,7 @@
     diagnosing the root cause of latency spikes and measuring the flowlet size distribution.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3131985&ftid=1900251&dwn=1&CFID=799435758&CFTOKEN=93423137
+  link: "//dl.acm.org/authorize?N34280"
   slides: ''
   video: ''
   COL_UID: ''

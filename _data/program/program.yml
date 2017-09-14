@@ -130,7 +130,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: files/program/topic-preview-1-1.pdf
   video: ''
   remote: ''
   remote-qa: ''
@@ -145,7 +145,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: files/program/topic-preview-1-2.pdf
   video: ''
   remote: ''
   remote-qa: ''
@@ -160,7 +160,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: files/program/topic-preview-1-3.pdf
   video: ''
   remote: ''
   remote-qa: ''
@@ -175,7 +175,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: files/program/topic-preview-1-4.pdf
   video: ''
   remote: ''
   remote-qa: ''
@@ -190,7 +190,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: files/program/topic-preview-1-5.pdf
   video: ''
   remote: ''
   remote-qa: ''
@@ -415,7 +415,7 @@
     <p>We show how to schedule a P4 program on dRMT at compile time to guarantee deterministic throughput and latency. We also present a hardware design for dRMT and analyze its feasibility and chip area. Our results show that dRMT can run programs at line rate with fewer processors compared to RMT, and avoids performance cliffs when there are not enough processors to run a program at line rate. dRMT’s hardware design incurs a modest increase in chip area relative to RMT, mainly due to the crossbar.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098823&ftid=1898914&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33984"
   slides: files/program/ts-1-1-drmt.pptx
   video: ''
   remote: ''
@@ -434,7 +434,7 @@
     <p>Until recently, it was not possible to implement a load balancer with PCC in a merchant switching ASIC, because high-performance switching ASICs typically can not maintain per-connection states with PCC. Newer switching ASICs provide resources and primitives to enable PCC at a large scale. In this paper, we explore how to use switching ASICs to build much faster load balancers than have been built before. Our system, called SilkRoad, is defined in a 400 line P4 program and when compiled to a state-of-the-art switching ASIC, we show it can load-balance ten million connections simultaneously at line rate.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098824&ftid=1898912&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33995"
   slides: files/program/ts-1-2-silkroad.pptx
   video: ''
   remote: ''
@@ -453,7 +453,7 @@
     <p>We implemented NDP in Linux end systems, in a software switch and in hardware switches based on the NetFPGA-SUME platform. We evaluate NDP’s performance both in our implementation and in large-scale simulations. NDP achieves slightly lower short-flow completion times than DCTCP running over lossless Ethernet using PFC, while having better ability to prioritize traffic from stragglers. At the same time, for large transfers in heavily loaded Clos topologies, it can achieve more than 95% of the available network capacity due to its excellent multipath capability, beating DCTCP by approximately 40%.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098825&ftid=1898916&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33996"
   slides: ''
   video: ''
   remote: ''
@@ -514,7 +514,7 @@
     significant latency reduction for real world service chains.</p>"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098826&ftid=1898913&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33997"
   slides: files/program/ts-2-1-NFP.pptx
   video: ''
   remote: ''
@@ -551,7 +551,7 @@
     scalable, and able to reconfigure service chains across a range of middleboxes.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098827&ftid=1898897&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33998"
   slides: files/program/ts-2-2-dysco.pdf
   video: ''
   remote: ''
@@ -572,7 +572,7 @@
     <p>The NFVnice framework monitors load on a service chain at high frequency (1000Hz) and employs backpressure to shed load early in the service chain, thereby preventing wasted work. Borrowing concepts such as rate proportional scheduling from hardware packet schedulers, CPU shares are computed by accounting for heterogeneous packet processing costs of NFs, I/O, and traffic arrival characteristics. By leveraging cgroups, a user space process scheduling abstraction exposed by the operating system, NFVnice is capable of controlling when network functions should be scheduled. NFVnice improves NF performance by complementing the capabilities of the OS scheduler but without requiring changes to the OS’s scheduling mechanisms. Our controlled experiments show that NFVnice provides the appropriate rate-cost proportional fair share of CPU to NFs and significantly improves NF performance (throughput and loss) by reducing wasted work across an NF chain, compared to using the default OS scheduler. NFVnice achieves this even for heterogeneous NFs with vastly different computational costs and for heterogeneous workloads.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098828&ftid=1898893&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33999"
   slides: files/program/ts-2-3-NFVnice.pdf
   video: ''
   remote: ''
@@ -636,7 +636,7 @@
     <p>We present a performance query language, Marple, modeled on familiar functional constructs like map, filter, groupby, and zip. is backed by a new programmable key-value store primitive on switch hardware. The key-value store performs flexible aggregations at line rate (e.g., a moving average of queueing latencies per flow), and scales to millions of keys. We present a Marple compiler that targets a P4-programmable software switch and a simulator for high-speed programmable switches. Marple can express switch queries that could previously run only on end hosts, while Marple queries only occupy a modest fraction of a switch’s hardware resources.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098829&ftid=1898917&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33990"
   slides: files/program/ts-3-1-ldhd.pdf
   video: ''
   remote: ''
@@ -670,7 +670,7 @@
     of network policies that require quantitative network monitoring.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098830&ftid=1898915&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33991"
   slides: files/program/ts-3-2-NetQRE.pdf
   video: ''
   remote: ''
@@ -690,7 +690,7 @@
     <p>We present SketchVisor, a robust network measurement framework for software packet processing. It augments sketch-based measurement in the data plane with a fast path, which is activated under high traffic load to provide high-performance local measurement with slight accuracy degradations. It further recovers accurate network-wide measurement results via compressive sensing. We have built a SketchVisor prototype on top of Open vSwitch. Extensive testbed experiments show that SketchVisor achieves high throughput and high accuracy for a wide range of network measurement tasks and microbenchmarks.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098831&ftid=1898923&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33992"
   slides: files/program/ts-3-3-sketchvisor.pptx
   video: ''
   remote: ''
@@ -709,7 +709,7 @@
     <p>In this paper, we propose a randomized constant time algorithm for HHH. We prove probabilistic precision bounds backed by an empirical evaluation. Using four real Internet packet traces, we demonstrate that our algorithm indeed obtains comparable accuracy and recall as previous works, while running up to 62 times faster. Finally, we extended Open vSwitch (OVS) with our algorithm and showed it is able to handle 13.8 millions of packets per second. In contrast, incorporating previous works in OVS only obtained 2.5 times lower throughput.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098832&ftid=1898924&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33993"
   slides: files/program/ts-3-4-ctu.pptx
   video: ''
   remote: ''
@@ -886,7 +886,7 @@
     NAT code, proof toolchain, and proofs are available at https://vignat.github.io.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098833&ftid=1898898&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33994"
   slides: files/program/ts-4-1-VigNAT.pdf
   video: ''
   remote: ''
@@ -917,7 +917,7 @@
     which reduce runtime by over 460x for large networks.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098834&ftid=1898894&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33905"
   slides: files/program/ts-4-2-net-verification.pptx
   video: ''
   remote: ''
@@ -947,7 +947,7 @@
     5 times versus the status quo</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098835&ftid=1898921&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33906"
   slides: files/program/ts-4-3-pretzel.pdf
   video: ''
   remote: ''
@@ -1007,7 +1007,7 @@
     from our deployment.</p>"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098842&ftid=1898918&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33907"
   slides: files/program/ts-5-1-QUIC.pdf
   video: ''
   remote: ''
@@ -1025,7 +1025,7 @@
     <p>We propose Pensieve, a system that generates ABR algorithms using reinforcement learning (RL). Pensieve uses RL to train a neural network model that selects bitrates for future video chunks based on observations collected by client video players. Unlike existing approaches, Pensieve does not rely upon pre-programmed models or assumptions about the environment. Instead, it learns to make ABR decisions solely through observations of the resulting performance of past decisions. As a result, Pensieve can automatically learn ABR algorithms that adapt to a wide range of environments and QoE metrics. We compare Pensieve to state-of-the-art ABR algorithms using trace-driven and real world experiments spanning a wide variety of network conditions, QoE metrics, and video properties. In all considered scenarios, Pensieve outperforms the best state-of-the-art scheme, with improvements in average QoE of 12%-25%. Pensieve also generalizes well, outperforming existing schemes even on networks for which it was not explicitly trained.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098843&ftid=1898906&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33908"
   slides: files/program/ts-5-2-pensieve.pptx
   video: ''
   remote: ''
@@ -1043,7 +1043,7 @@
     <p>We present diskmap, a novel framework that provides safe high-performance userspace direct I/O access to NVME devices, while amortizing system overheads by utilizing efficient batching of outstanding I/O requests, process-to-completion and zerocopy operations. Building upon diskmap and netmap, we show how to design and implement high performance network services that saturate existing hardware while serving data directly from disks, without the need of a traditional in-memory buffer cache. We demonstrate how a buffer-cache-free design is not only practical, but required in order to achieve efficient use of memory bandwidth on contemporary microarchitectures, and we illustrate the power of this design by building a video streaming web server that outperforms state-of-the-art configurations, and saturates modern NIC hardware while using a fraction of the available CPU cores on commodity hardware.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098844&ftid=1898919&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33909"
   slides: files/program/ts-5-3-disk-crypt-net.pdf
   video: ''
   remote: ''
@@ -1089,7 +1089,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: files/program/topic-preview-2-1.pdf
   video: ''
   remote: ''
   remote-qa: ''
@@ -1119,7 +1119,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: files/program/topic-preview-2-3.pdf
   video: ''
   remote: ''
   remote-qa: ''
@@ -1134,7 +1134,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: files/program/topic-preview-2-4.pdf
   video: ''
   remote: ''
   remote-qa: ''
@@ -1149,7 +1149,7 @@
   bio: ''
   photo: ''
   link: ''
-  slides: ''
+  slides: files/program/topic-preview-2-5.pdf
   video: ''
   remote: ''
   remote-qa: ''
@@ -1182,7 +1182,7 @@
     <p>This paper presents DRILL, a datacenter fabric for Clos networks which performs <em>micro load balancing</em> to distribute load as evenly as possible on microsecond timescales. DRILL employs per-packet decisions at each switch based on local queue occupancies and randomized algorithms to distribute load. Our design addresses the resulting key challenges of packet reordering and topological asymmetry. In simulations with a detailed switch hardware model and realistic workloads, DRILL outperforms recent edge-based load balancers particularly under heavy load. Under 80% load, for example, it achieves <span class="math inline">1.3</span>-<span class="math inline">1.4×</span> lower mean flow completion time than recent proposals, primarily due to shorter upstream queues. To test hardware feasibility, we implement DRILL in Verilog and estimate its area overhead to be less than 1%. Finally, we analyze DRILL’s stability and throughput-efficiency.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098839&ftid=1898903&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33900"
   slides: files/program/ts-6-1-drill.pdf
   video: ''
   remote: ''
@@ -1199,7 +1199,7 @@
     <p>This paper presents a new radical approach, called ExpressPass, an end-to-end credit-scheduled, delay-bounded congestion control for datacenters. ExpressPass uses credit packets to control congestion even before sending data packets, which enables us to achieve bounded delay and fast convergence. It gracefully handles bursty flow arrivals. We implement ExpressPass using commodity switches and provide evaluations using testbed experiments and simulations. ExpressPass converges up to <span class="math inline">80</span> times faster than DCTCP in <span class="math inline">10</span>Gbps links, and the gap increases as link speeds become faster. It greatly improves performance under heavy incast workloads and significantly reduces the flow completion times, especially, for small and medium size flows compared to RCP, DCTCP, HULL, and DX under realistic workloads.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098840&ftid=1898927&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33901"
   slides: files/program/ts-6-2-exppass.pdf
   video: ''
   remote: ''
@@ -1217,7 +1217,7 @@
     <p>In this paper, we introduce Hermes, a datacenter load balancer that is resilient to the aforementioned uncertainties. At its heart, Hermes leverages comprehensive sensing to detect path conditions including failures unattended before, and it reacts using timely yet cautious rerouting. Hermes is a practical edge-based solution with no switch modification. We have implemented Hermes with commodity switches and evaluated it through both testbed experiments and large-scale simulations. Our results show that Hermes achieves comparable performance to CONGA and Presto in normal cases, and well handles uncertainties: under asymmetries, Hermes achieves up to 10% and 20% better flow completion time (FCT) than CONGA and CLOVE; under switch failures, it outperforms all other schemes by over 32%.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098841&ftid=1898907&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33902"
   slides: files/program/ts-6-3-resilient-load-balancing.pptx
   video: ''
   remote: ''
@@ -1280,7 +1280,7 @@
     <p>We propose RotorNet, a circuit-based network design that addresses these two challenges. While RotorNet dynamically reconfigures its constituent circuit switches, it decouples switch configuration from traffic patterns, obviating the need for demand collection and admitting a fully decentralized control plane. At the physical layer, RotorNet relaxes the requirements on the underlying circuit switches—in particular by not requiring individual switches to implement a full crossbar—enabling them to scale to 1000s of ports. We show that RotorNet outperforms comparably priced Fat Tree topologies under a variety of workload conditions, including traces taken from two commercial datacenters. We also demonstrate a small-scale RotorNet operating in practice on an eight-node testbed.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098838&ftid=1898925&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33903"
   slides: files/program/ts-7-1-RotorNet.pdf
   video: ''
   remote: ''
@@ -1299,7 +1299,7 @@
     <p>Our results substantially lower the barriers for improving upon today’s data centers by showing that a static, cabling-friendly topology built using commodity equipment yields superior performance when combined with well-understood routing methods.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098836&ftid=1898928&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33904"
   slides: files/program/ts-7-2-beyond-fat-tree.pdf
   video: ''
   remote: ''
@@ -1330,7 +1330,7 @@
     reduced communication time in Spark and Hadoop jobs.</p>"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098837&ftid=1898922&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33915"
   slides: files/program/ts-7-3-flat-tree.pdf
   video: ''
   remote: ''
@@ -1468,7 +1468,7 @@
     <p>This paper presents Choir, a system that overcomes challenges pertaining to density and range of urban LP-WANs despite the limited capabilities of base station and client hardware. First, Choir proposes a novel technique that aims to disentangle and decode large numbers of interfering transmissions at a simple, single-antenna LP-WAN base station. It does so, perhaps counter-intuitively, by taking the hardware imperfections of low-cost LP-WAN clients to its advantage. Second, Choir exploits the correlation of sensed data collected by LP-WAN nodes to collaboratively reach a far-away base station, even if individual clients are beyond its range. We implement and evaluate Choir on USRP N210 base stations serving a 10 square kilometer area surrounding Carnegie Mellon University campus. Our results reveal that Choir improves network throughput of commodity LP-WAN clients by 6.84<span class="math inline">×</span> and expands communication range by 2.65<span class="math inline">×</span>.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098845&ftid=1898904&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33916"
   slides: files/program/ts-8-1-choir.pdf
   video: ''
   remote: ''
@@ -1498,7 +1498,7 @@
     and 802.11r standards.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098846&ftid=1898920&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33917"
   slides: files/program/ts-8-2-WGTT.pdf
   video: ''
   remote: ''
@@ -1516,7 +1516,7 @@
     <p>We built a hardware prototype of RFly’s relay into a custom PCB circuit and mounted it on a Parrot Bebop drone. Our experimental evaluation demonstrates that RFly enables communication with commercial RFIDs at over 50m. Moreover, its through-relay localization algorithm has a median accuracy of 19 centimeters. These results demonstrate that RFly provides powerful primitives for communication and localization in battery-free networks.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098847&ftid=1898902&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33918"
   slides: ''
   video: ''
   remote: ''
@@ -1537,7 +1537,7 @@
     <p>We prototype and evaluate PEPC, a software EPC that implements the key components of our design. We show that PEPC achieves 3-7x higher throughput than comparable software EPCs that have been implemented in industry and over 10x higher throughput than a popular open-source implementation (OpenAirInterface). Compared to the industrial EPC implementations, PEPC sustains high data throughput for 10-100x more users devices per core, and a 10x higher ratio of signaling-to-data traffic. In addition to high performance, PEPC’s by-user organization enables efficient state migration and customization of processing pipelines. We implement user migration in PEPC and show that state can be migrated with little disruption, e.g., migration adds only up to 4us of latency to median per packet latencies.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098848&ftid=1898899&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33919"
   slides: ''
   video: ''
   remote: ''
@@ -1599,7 +1599,7 @@
     of magnitude and improve repair accuracy by 60%.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098849&ftid=1898900&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33910"
   slides: files/program/ts-9-1-CorrOpt.pdf
   video: ''
   remote: ''
@@ -1628,7 +1628,7 @@
     and conclude that it is the latter.</p>"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098850&ftid=1898910&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33911"
   slides: files/program/ts-9-2-Sheriff.pdf
   video: ''
   remote: ''
@@ -1646,7 +1646,7 @@
     <p>To securely address the impact that these dependencies have on page load times, we present Vroom, a rethink of how clients and servers interact to facilitate web page loads. Unlike existing solutions, which require clients to either trust proxy servers or discover all the resources on any page themselves, Vroom’s key characteristics are that clients fetch every resource directly from the domain that hosts it but web servers aid clients in discovering resources. Input from web servers decouples a client’s processing of resources from its fetching of resources, thereby enabling independent use of both the CPU and the network. As a result, Vroom reduces the median page load time by more than 5 seconds across popular News and Sports sites. To enable these benefits, our contributions lie in making web servers capable of accurately aiding clients in resource discovery and judiciously scheduling a client’s receipt of resources.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098851&ftid=1898908&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33912"
   slides: files/program/ts-9-3-vroom.pdf
   video: ''
   remote: ''
@@ -1664,7 +1664,7 @@
     <p>In this paper, we show that the performance overhead of end-host traffic shaping is substantial limits overall system scalability as we move to thousands of individual traffic classes per server. Measurements from production servers show that shaping at hosts consumes considerable CPU and memory, unnecessarily drops packets, suffers from head of line blocking and inaccuracy, and does not provide backpressure up the stack. We present Carousel, a framework that scales to tens of thousands of policies and flows per server, built from the synthesis of three key ideas: i) a single queue shaper using time as the basis for releasing packets, ii) fine-grained, just-in-time freeing of resources in higher layers coupled to actual packet departures, and iii) one shaper per CPU core, with lock-free coordination. Our production experience in serving video traffic at a Cloud service provider shows that Carousel shapes traffic accurately while improving overall machine CPU utilization by 8% (an improvement of 20% in the CPU utilization attributed to networking) relative to state-of-art deployments. It also conforms 10 times more accurately to target rates, and consumes two orders of magnitude less memory than existing approaches.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098852&ftid=1898895&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33913"
   slides: files/program/ts-9-4-carousel.pdf
   video: ''
   remote: ''
@@ -1728,7 +1728,7 @@
     solutions, and lessons from four years of operating and evolving Edge Fabric.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098853&ftid=1898926&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33914"
   slides: ''
   video: ''
   remote: ''
@@ -1757,7 +1757,7 @@
     total traffic to the Internet.</p>"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098854&ftid=1898911&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33925"
   slides: files/program/ts-10-2-espresso.pdf
   video: ''
   remote: ''
@@ -1790,7 +1790,7 @@
     stress that often goes unreported.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098855&ftid=1898905&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33926"
   slides: files/program/ts-10-3-outages-in-wild.pdf
   video: ''
   remote: ''
@@ -1840,7 +1840,7 @@
     <p>We implemented SWIFT and demonstrate that it is both fast and accurate. It predicts the extent of a remote outage in few seconds with an accuracy of ~90% and can restore connectivity for 99% of the impacted destinations.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098856&ftid=1898909&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33927"
   slides: files/program/ts-11-1-SWIFT.pdf
   video: ''
   remote: ''
@@ -1865,7 +1865,7 @@
     their utility, it presents D-BGP, a version of BGP that incorporates them.</p>\n"
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098857&ftid=1899581&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/citation.cfm?id=3098857"
   slides: files/program/ts-11-2-D-BGP.pdf
   video: ''
   remote: ''
@@ -1883,7 +1883,7 @@
     <p>Our technique complements existing data and control plane outage analysis methods by providing a causal link from BGP reachability failures to the responsible router(s) and multi-homing configurations. While we found the Internet core to be largely robust, we identified specific routers that were <em>single points of failure</em> for the prefixes they advertised. In total, 2,385 routers – 4.0% of the routers that restarted over the course of 2.5 years of probing – were single points of failure for 3,396 IPv6 prefixes announced by 1,708 ASes. We inferred 59% of these routers were the customer-edge border router. 2,374 (70%) of the withdrawn prefixes were not covered by a less specific prefix, so 1,726 routers (2.9%) of those that restarted were single points of failure for at least one network. However, a covering route did not imply reachability during a router outage, as no previously-responsive address in a withdrawn more specific prefix responded during a one-week sample. We validate our reboot and single point of failure inference techniques with four networks, finding no false positive or false negative reboots, but find some false negatives in our single point of failure inferences.</p>
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098858&ftid=1898896&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N33928"
   slides: files/program/ts-11-3-outages.pdf
   video: ''
   remote: ''

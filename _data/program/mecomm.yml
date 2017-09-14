@@ -82,7 +82,7 @@
     need to keep a large amount of idle capacity to satisfy coverage.
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098209&ftid=1899531&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34648"
   slides: ''
   video: ''
   COL_UID: ''
@@ -107,7 +107,7 @@
     directions that could enhance the solution space.
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098210&ftid=1899529&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34649"
   slides: ''
   video: ''
   COL_UID: ''
@@ -132,7 +132,7 @@
     networks.
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098211&ftid=1899530&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34640"
   slides: ''
   video: ''
   COL_UID: ''
@@ -153,7 +153,7 @@
     access latency.
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098212&ftid=1899532&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34641"
   slides: ''
   video: ''
   COL_UID: ''
@@ -248,7 +248,7 @@
     blind/naïve multicast and a (ii) content popularity-based proactive multicast.
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098213&ftid=1899536&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34642"
   slides: ''
   video: ''
   COL_UID: ''
@@ -277,7 +277,7 @@
     34.5%, with reduced downloading time by up to 25.1%
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098214&ftid=1899534&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34643"
   slides: ''
   video: ''
   COL_UID: ''
@@ -299,7 +299,7 @@
     (~ 3%) to the LTE throughput. We also implement the proposed design using Software Defined Radios and show the viability of the proposal under different network scenarios.
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098215&ftid=1899537&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34644"
   slides: ''
   video: ''
   COL_UID: ''
@@ -411,7 +411,7 @@
     edge), and that are well balanced through time."
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098216&ftid=1899535&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34755"
   slides: ''
   video: ''
   COL_UID: ''
@@ -439,7 +439,7 @@
     pay up to 20% lower than their top bid amount.
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098217&ftid=1899528&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34756"
   slides: ''
   video: ''
   COL_UID: ''
@@ -467,7 +467,7 @@
     than a widely-used load balancer design for cloud.
   bio: ''
   photo: ''
-  link: http://dl.acm.org/ft_gateway.cfm?id=3098218&ftid=1899533&dwn=1&CFID=776908660&CFTOKEN=29525737
+  link: "//dl.acm.org/authorize?N34757"
   slides: ''
   video: ''
   COL_UID: ''
