@@ -50,7 +50,7 @@
   photo: images/speakers/Nick-McKeown.jpg
   link: ''
   slides: files/program-netpl/01-mckeown.pptx
-  video: ''
+  video: https://youtu.be/daDSsW7734c
   COL_UID: ''
 - type: break
   time: 10:30am - 11:00am
@@ -101,7 +101,7 @@
   photo: images/speakers/Jennifer-Rexford.jpg
   link: ''
   slides: files/program-netpl/02-rexford.pptx
-  video: ''
+  video: https://youtu.be/oQJfoFnMAqs
   COL_UID: ''
 - type: talk
   time: ''
@@ -142,7 +142,7 @@
   photo: images/speakers/Boon-Thau-Loo.jpg
   link: ''
   slides: files/program-netpl/03-loo.pdf
-  video: ''
+  video: https://youtu.be/zYfeWoMya9k
   COL_UID: ''
 - type: talk
   time: ''
@@ -169,7 +169,7 @@
   photo: images/speakers/Mooly-Sagiv.jpg
   link: ''
   slides: files/program-netpl/04-sagiv.pptx
-  video: ''
+  video: https://youtu.be/OR3JgFfalwo
   COL_UID: ''
 - type: break
   time: 12:30pm - 2:00pm
@@ -210,7 +210,7 @@
   photo: ''
   link: files/program-netpl/sigcomm17netpl-paper1.pdf
   slides: files/program-netpl/05-popovici.pptx
-  video: ''
+  video: https://youtu.be/m7GLCVSfzf8
   COL_UID: ''
 - type: paper
   time: ''
@@ -227,7 +227,7 @@
   photo: ''
   link: files/program-netpl/sigcomm17netpl-paper2.pdf
   slides: files/program-netpl/06-zhai.pdf
-  video: ''
+  video: https://youtu.be/ELpw_SqJMpI
   COL_UID: ''
 - type: paper
   time: ''
@@ -244,7 +244,7 @@
   photo: ''
   link: files/program-netpl/sigcomm17netpl-paper3.pdf
   slides: files/program-netpl/07-yamamoto.pdf
-  video: ''
+  video: https://youtu.be/RgJyXymEH0k
   COL_UID: ''
 - type: paper
   time: ''
@@ -266,7 +266,7 @@
   photo: ''
   link: files/program-netpl/sigcomm17netpl-paper4.pdf
   slides: files/program-netpl/08-retvari.pdf
-  video: ''
+  video: https://youtu.be/jLAPa-C4Wsk
   COL_UID: ''
 - type: paper
   time: ''
@@ -284,7 +284,7 @@
   photo: ''
   link: files/program-netpl/sigcomm17netpl-paper5.pdf
   slides: files/program-netpl/09-lee.pptx
-  video: ''
+  video: https://youtu.be/p_85Zys3Yzs
   COL_UID: ''
 - type: paper
   time: ''
@@ -312,7 +312,7 @@
   photo: ''
   link: files/program-netpl/sigcomm17netpl-paper6.pdf
   slides: files/program-netpl/10-khan.pptx
-  video: ''
+  video: https://youtu.be/Fu0Lur-wuY0
   COL_UID: ''
 - type: break
   time: 3:30pm - 4:00pm
@@ -369,7 +369,7 @@
   photo: images/speakers/Wenxuan-Zhou.jpg
   link: ''
   slides: files/program-netpl/11-zhou.pdf
-  video: ''
+  video: https://youtu.be/6o_54oQL9AE
   COL_UID: ''
 - type: session
   time: 5:00pm - 5:15pm

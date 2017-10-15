@@ -30,17 +30,17 @@
       <div class="ui-li-aside">
         {% if has_link %}
         <div class="button-paper">      
-          <a href="{{ paper.link }}" onclick="window.location='{{ paper.link }}'; event.stopPropagation();" class="ui-link">Paper</a>
+          <a href="{{ paper.link }}" onclick="event.stopPropagation();" rel="external" target="_blank" class="ui-link">Paper</a>
         </div>
         {% endif %}
         {% if has_slides %}
         <div class="button-paper">      
-          <a href="{{ paper.slides }}" onclick="window.location='{{ paper.slides }}'; event.stopPropagation();" rel="external" target="_blank" class="ui-link">Slides</a>
+          <a href="{{ paper.slides }}" onclick="event.stopPropagation();" rel="external" target="_blank" class="ui-link">Slides</a>
         </div>
         {% endif %}
         {% if has_video %}
         <div class="button-paper">      
-          <a href="{{ paper.video }}" onclick="window.location='{{ paper.video }}'; event.stopPropagation();" rel="external" target="_blank" class="ui-link">Video</a>
+          <a href="{{ paper.video }}" onclick="event.stopPropagation();" rel="external" target="_blank" class="ui-link">Video</a>
         </div>
         {% endif %}
       </div>
