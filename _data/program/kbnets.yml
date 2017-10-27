@@ -96,7 +96,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34781"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N34781"
   COL_UID: ''
 - type: paper
   time: ''
@@ -124,7 +124,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34782"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N34782"
   COL_UID: ''
 - type: paper
   time: ''
@@ -139,7 +139,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34783"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N34783"
   COL_UID: ''
 - type: paper
   time: ''
@@ -165,7 +165,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34784"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N34784"
   COL_UID: ''
 - type: break
   time: 12:30pm - 1:45pm
@@ -234,7 +234,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34795"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N34795"
   COL_UID: ''
 - type: paper
   time: ''
@@ -249,7 +249,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34796"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N34796"
   COL_UID: ''
 - type: break
   time: 3:40pm - 4:10pm
@@ -287,7 +287,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34797"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N34797"
   COL_UID: ''
 - type: paper
   time: ''
@@ -302,7 +302,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34798"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N34798"
   COL_UID: ''
 - type: paper
   time: ''
@@ -328,5 +328,5 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34799"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N34799"
   COL_UID: ''

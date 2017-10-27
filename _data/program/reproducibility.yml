@@ -62,7 +62,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34775"
   slides: files/program-reproducibility/3.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N34775"
   COL_UID: ''
 - type: paper
   time: ''
@@ -85,7 +85,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34776"
   slides: files/program-reproducibility/1.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N34776"
   COL_UID: ''
 - type: paper
   time: ''
@@ -105,7 +105,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34777"
   slides: files/program-reproducibility/9.pptx
-  video: ''
+  video: "//dl.acm.org/authorize?N34777"
   COL_UID: ''
 - type: paper
   time: ''
@@ -123,7 +123,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34778"
   slides: files/program-reproducibility/4.pptx
-  video: ''
+  video: "//dl.acm.org/authorize?N34778"
   COL_UID: ''
 - type: break
   time: 10:30am - 11:00am
@@ -197,7 +197,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34779"
   slides: files/program-reproducibility/6.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N34779"
   COL_UID: ''
 - type: paper
   time: ''
@@ -219,7 +219,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34770"
   slides: files/program-reproducibility/8.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N34770"
   COL_UID: ''
 - type: paper
   time: ''
@@ -236,7 +236,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N34771"
   slides: files/program-reproducibility/10.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N34771"
   COL_UID: ''
 - type: break
   time: 12:30pm - 2:00pm

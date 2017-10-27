@@ -417,7 +417,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33984"
   slides: files/program/ts-1-1-drmt.pptx
-  video: ''
+  video: "//dl.acm.org/authorize?N33984"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -436,7 +436,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33995"
   slides: files/program/ts-1-2-silkroad.pptx
-  video: ''
+  video: "//dl.acm.org/authorize?N33995"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -455,7 +455,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33996"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N33996"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -516,7 +516,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33997"
   slides: files/program/ts-2-1-NFP.pptx
-  video: ''
+  video: "//dl.acm.org/authorize?N33997"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -553,7 +553,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33998"
   slides: files/program/ts-2-2-dysco.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33998"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -574,7 +574,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33999"
   slides: files/program/ts-2-3-NFVnice.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33999"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -638,7 +638,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33990"
   slides: files/program/ts-3-1-ldhd.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33990"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -672,7 +672,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33991"
   slides: files/program/ts-3-2-NetQRE.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33991"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -692,7 +692,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33992"
   slides: files/program/ts-3-3-sketchvisor.pptx
-  video: ''
+  video: "//dl.acm.org/authorize?N33992"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -711,7 +711,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33993"
   slides: files/program/ts-3-4-ctu.pptx
-  video: ''
+  video: "//dl.acm.org/authorize?N33993"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -888,7 +888,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33994"
   slides: files/program/ts-4-1-VigNAT.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33994"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -919,7 +919,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33905"
   slides: files/program/ts-4-2-net-verification.pptx
-  video: ''
+  video: "//dl.acm.org/authorize?N33905"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -949,7 +949,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33906"
   slides: files/program/ts-4-3-pretzel.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33906"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1009,7 +1009,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33907"
   slides: files/program/ts-5-1-QUIC.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33907"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1027,7 +1027,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33908"
   slides: files/program/ts-5-2-pensieve.pptx
-  video: ''
+  video: "//dl.acm.org/authorize?N33908"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1045,7 +1045,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33909"
   slides: files/program/ts-5-3-disk-crypt-net.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33909"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1184,7 +1184,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33900"
   slides: files/program/ts-6-1-drill.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33900"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1201,7 +1201,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33901"
   slides: files/program/ts-6-2-exppass.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33901"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1219,7 +1219,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33902"
   slides: files/program/ts-6-3-resilient-load-balancing.pptx
-  video: ''
+  video: "//dl.acm.org/authorize?N33902"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1282,7 +1282,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33903"
   slides: files/program/ts-7-1-RotorNet.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33903"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1301,7 +1301,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33904"
   slides: files/program/ts-7-2-beyond-fat-tree.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33904"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1332,7 +1332,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33915"
   slides: files/program/ts-7-3-flat-tree.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33915"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1470,7 +1470,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33916"
   slides: files/program/ts-8-1-choir.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33916"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1500,7 +1500,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33917"
   slides: files/program/ts-8-2-WGTT.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33917"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1518,7 +1518,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33918"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N33918"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1539,7 +1539,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33919"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N33919"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1601,7 +1601,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33910"
   slides: files/program/ts-9-1-CorrOpt.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33910"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1630,7 +1630,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33911"
   slides: files/program/ts-9-2-Sheriff.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33911"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1648,7 +1648,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33912"
   slides: files/program/ts-9-3-vroom.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33912"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1666,7 +1666,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33913"
   slides: files/program/ts-9-4-carousel.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33913"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1730,7 +1730,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33914"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N33914"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1759,7 +1759,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33925"
   slides: files/program/ts-10-2-espresso.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33925"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1792,7 +1792,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33926"
   slides: files/program/ts-10-3-outages-in-wild.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33926"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1842,7 +1842,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33927"
   slides: files/program/ts-11-1-SWIFT.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33927"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1867,7 +1867,7 @@
   photo: ''
   link: "//dl.acm.org/citation.cfm?id=3098857"
   slides: files/program/ts-11-2-D-BGP.pdf
-  video: ''
+  video: "//dl.acm.org/citation.cfm?id=3098857"
   remote: ''
   remote-qa: ''
   COL_UID: ''
@@ -1885,7 +1885,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33928"
   slides: files/program/ts-11-3-outages.pdf
-  video: ''
+  video: "//dl.acm.org/authorize?N33928"
   remote: ''
   remote-qa: ''
   COL_UID: ''

@@ -88,7 +88,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33836"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N33836"
   COL_UID: ''
 - type: paper
   time: 9:50am - 10:10am
@@ -102,7 +102,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33837"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N33837"
   COL_UID: ''
 - type: paper
   time: 10:10am - 10:30am
@@ -215,7 +215,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33839"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N33839"
   COL_UID: ''
 - type: paper
   time: 12:10pm - 12:30pm
@@ -230,7 +230,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33838"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N33838"
   COL_UID: ''
 - type: break
   time: 12:30pm - 2:00pm
@@ -309,7 +309,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33831"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N33831"
   COL_UID: ''
 - type: paper
   time: 3:10pm - 3:30pm
@@ -333,7 +333,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33832"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N33832"
   COL_UID: ''
 - type: break
   time: 3:30pm - 4:00pm
@@ -387,7 +387,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33833"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N33833"
   COL_UID: ''
 - type: paper
   time: 4:25pm - 4:45pm
@@ -413,7 +413,7 @@
   photo: ''
   link: "//dl.acm.org/authorize?N33834"
   slides: ''
-  video: ''
+  video: "//dl.acm.org/authorize?N33834"
   COL_UID: ''
 - type: session
   time: 4:45pm - 5:30pm
